@@ -1,0 +1,1005 @@
+# 영어 도시 표기명
+# 출처: http://www.whypaymore.co.kr/home/Search/PortSearch_more.asp
+Shanghai	상하이
+Penang	페낭
+Malaysia	말레이시아
+Nanjing	난징
+Stuttgart	슈트트가르트
+Kumamoto	구마모토
+Cebu	세부
+Philippines	필리핀
+Riyadh	리야드
+Saudi Arabia	사우디아라비아
+Orlando	올랜도
+Manchester	맨체스터
+Bali	발리
+Denpasar	덴파사르
+Indonesia	인도네시아
+Toyama	토야마
+Jeddah	제다
+Las Vegas	라스베가스
+Barcelona	바르셀로나
+Spain	스페인
+Takamatsu	다카마쓰
+Doha	도하
+Qatar	카타르
+Khartoum	카르툼
+Sudan	수단
+Phuket	푸켓
+Honolulu	호놀룰루
+Okayama	오카야마
+Cambodia	캄보디아
+Wellington	웰링턴
+New Zealand	뉴질랜드
+Philadelphia	필라델피아
+Bahrain	바레인
+Madrid	마드리드
+Saipan	싸이판
+Seattle	시애틀
+Hanoi	하노이
+Vietnam	베트남
+Nadi	나디
+Fiji	피지
+Islands	아일랜드
+Greece	그리스
+Jakarta	자카르타
+Niigata	니이가타
+Kuwait	쿠웨이트
+Dallas	달라스
+Cairns	케언즈
+Hiroshima	히로시마
+Nairobi	나이로비
+Kenya	케냐
+Boston	보스톤
+Ho Chi Minh	호치민
+Adelaide	아델레이드
+Okinawa	오키나와
+Taipei	타이페이
+Atlanta	아틀란타
+Cape Town	케이프타운
+South Africa	사우스아프리카
+Israel	이스라엘
+Komatsu	고마츠
+Christchurch	크라이스트쳐치
+San Francisco	샌프란시스코
+Guam	괌
+Amsterdam	암스테르담
+Netherlands	네델란드
+Singapore	싱가폴
+Chicago	시카고
+Perth	퍼스
+Nagoya	나고야
+Istanbul	이스탄불
+Turkey	터키
+Washington	워싱턴
+Toronto	토론토
+Canada	캐나다
+Auckland	오클랜드
+Manila	마닐라
+Melbourne	멜버른
+Vancouver	밴쿠버
+Frankfurt	프랑크푸르트
+Osaka	오사카
+Johannesburg	요하네스버그
+Dubai	두바이
+Arab Emirates	아랍에미리트
+Brisbane	브리즈번
+Paris	파리
+France	프랑스
+Tokyo	도쿄
+Bangkok	방콕
+New York	뉴욕
+Sydney	시드니
+Beijing	베이징
+Cairo	카이로
+Egypt	이집트
+Hong Kong	홍콩
+Los Angeles	로스앤젤레스
+London	런던
+Al Ain	알 아인
+Abu Dhabi	아부다비
+Ras Al Khaimah	라스 알 카이마
+KABUL	카불
+Afghanistan	아프가니스탄
+Antigua	앤티가
+Tirana	티라나
+Albania	알바니아
+Erevan	예레반
+Armenia	아르메니아
+Netherland	네덜란드
+Luanda	루안다
+Angola	앙골라
+Cordoba	코르도바
+Buenos Aires	부에노스 아이레스
+Graz	그라츠
+Austria	오스트리아
+Linz	린츠
+Vienna	비엔나
+Alice Springs	앨리스 스프링
+Broome	브룸
+Canberra	캔버라
+Coffs Harbour	콥스 하버
+Darwin	다윈
+Hobart	호바트
+Gold Coast	골드 코스트
+Aruba	아루바
+BAKU	바쿠
+Azerbaijan	아제르바이잔
+Ganja	간자
+Nakhichevan	나히체반
+Bosnia Herzegovina	보스니아 헤르체코비나
+Sarajevo	사라예보
+Dhaka	다카
+Bangladesh	방글라데시
+Brussels	브뤼셀
+Burkina Faso	부르키나파소
+Sofia	소피아
+Bulgaria	불가리아
+Bujumbura	부줌부라
+Burundi	부룬디
+Cotonou	코토누
+Benin	베닌
+Bermuda	버뮤다
+Bandar Seri Begawan	반다르 세리 베가완
+Brunei	브루나이
+La Paz	라 파스
+Bolivia	볼리비아
+Santa Cruz	산타 크루스
+Brasilia	브라질리아
+Brazil	브라질
+Cuiaba	쿠이아바
+Curitiba	쿠리티바
+Iguassu Falls	이과수 폴스
+Manaus	마나우스
+Porto Alegre	포트알레그레
+Vitoria	비토리아
+Freeport	프리포트
+Bahamas	바하마
+George Town	조지타운
+Marsh Harbour	마시하버
+Nassau	나소
+Kasane	카사네
+Botswana	보츠와나
+Gaborone	가보로네
+Minsk	민스크
+Belize	벨리즈
+Edmonton	에드먼턴
+Ft McMurray	포트 맥머레이
+Grande Prairie	그랜드 프레리
+Medicine Hat	메디신햇
+Calgary	캘거리
+Nanaimo	나나이모
+Castlegar	캐슬가
+Kamloops	캠룹스
+Kelowna	켈로나
+Prince Rupert	프린스 루퍼트
+Cranbrook	크랜브룩
+Ft St John	포트 세인트 존
+Prince George	프린스조지
+Terrace	테라스
+Penticton	펜틱턴
+Victoria	빅토리아
+Winnipeg	위니펙
+Fredericton	프레더릭턴
+Moncton	멍크턴
+St John	세인트존
+Bathurst	배서스트
+Deer Lake	디어레이크
+Gander	갠더
+Wabush	와부시
+St Johns	세인트존스
+Halifax	핼리팩스
+Kingston	킹스톤
+Ottawa	오타와
+Windsor	윈저
+Thunder Bay	선더베이
+Sudbury	서드베리
+Timmins	티민스
+North Bay	노스베이
+Sarnia	사니아
+Charlottetown	샬럿타운
+Quebec	퀘백
+Montreal	몬트리올
+Regina	리자이나
+Saskatoon	새스커툰
+Whitehorse	화이트호스
+Lubumbashi	루붐바시
+Congo	콩고
+Kinshasa	킨샤사
+Brazzaville	브라자빌
+Berne	베른
+Geneva	제네바
+Lugano	루가노
+Basel	바젤
+Abidjan	아비장
+Chile	칠레
+Santiago	산티아고
+Douala	두알라
+Cameroon	카메룬
+Yaounde	야운데
+BAOTOU	바오터우
+DANDONG	단동
+DUNHUANG	둔황
+DONGSHENG	동성
+Handan	한단
+JI AN	지안
+Jinjiang	진지앙
+Bogota	보고타
+Colombia	콜롬비아
+Cali	칼리
+Medellin	메델린
+San Jose	산호세
+Costa Rica	코스타리카
+Cayo Coco	카요코코
+Cuba	쿠바
+Havana	하바나
+Varadero	바라데로
+Ercan	에르칸
+Cyprus	키프로스
+Larnaca	라나카
+Ostrava	오스트라바
+Bremen	브레멘
+Dresden	드레스덴
+Dusseldorf	뒤셀도르프
+Friedrichshafen	프리드리히스하펜
+Muenster	뮌스터
+Hanover	하노버
+Nuremberg	뉴렌버그
+Paderborn	파더보른
+Berlin	베를린
+Djibouti	지부티
+Aalborg	알보크
+Denmark	덴마크
+Billund	빌룬드
+Copenhagen	코펜하겐
+Grenada	그레나다
+Dominica	도미니카공화국
+St Lucia	세인트 루시아
+Punta Cana	푼타카나
+Santo Domingo	산또 도밍고
+BATNA	바트나
+Constantine	콘스탄틴
+Oran	오란
+Tlemcen	틀렘센
+Guayaquil	과야낄
+Ecuador	에콰도르
+Quito	키토
+Estonia	에스토니아
+Tallinn	탈린
+Borg El Arab	보그 엘 아랍
+Luxor	룩소르
+Asmara	아스마라
+Eritrea	에리트레아
+Malaga	말라가
+Alicante	알리칸테
+Bilbao	빌바오
+Ibiza	이비자
+Palma	팔마
+Valencia	발렌시아
+Addis Ababa	아디스 아바바
+Ethiopia	에티오피아
+Helsinki	헬싱키
+Finland	핀란드
+Ivalo	이발로
+Joensuu	요엔수
+Kuusamo	쿠사모
+Kittila	키틸라
+Kuopio	쿠오피오
+Oulu	오울루
+Rovaniemi	로바니에미
+Vaasa	바사
+Micronesia	마이크로네시아
+Brest	브레스트
+Bastia	바스티아
+Biarritz	비아리츠
+Aberdeen	애버딘
+Belfast	벨파스트
+Birmingham	버밍햄 영국
+Bristol	브리스톨
+Cardiff	카디프
+Leeds	리즈
+Newcastle	뉴캐슬
+Glasgow	글라스고
+Batumi	바투미
+Georgia	조지아
+Tbilisi	트빌리시
+Cayenne	카이엔
+Accra	아크라
+Ghana	가나
+Malabo	말라보
+Kerkyra	케르키라
+Mykonos	미코노스
+Thira	티라
+Thessaloniki	테살로니키
+Guatemala City	과테말라 시티
+Guatemala	과테말라
+Honduras	온두라스
+Croatia	크로아티아
+Pula	풀라
+Split	스플릿
+Zadar	자다르
+Zagreb	자그레브
+Haiti	아이티
+Budapest	부다페스트
+Hungary	헝가리
+BANJARMASIN	반자르마신
+Bandung	반둥
+Balikpapan	발릭파판
+Batam	바탐
+Banda Aceh	반다아체
+Jambi	잠비
+JAYAPURA	자야뿌라
+SIBOLGA	시볼가
+Yogjakarta	요그야카르타
+LABUAN BAJO	라부안바조
+Medan	메단
+MALANG	말랑
+Palembang	팔렘방
+Solo	솔로
+Surabaya	수라바야
+Bandar Lampung	반다르람풍
+Dublin	더블린
+Ireland	아일랜드
+Bangalore	방갈로
+Mumbai	뭄바이
+Kochi	코치
+Gaya	가야
+Madurai	마두라이
+Aurangabad	아우랑가바드
+Jaipur	자이푸르
+Lucknow	러크나우
+Tiruchirappali	티추리라팔리
+Varanasi	바라나시
+Vishakhapatanam	비샤카파트남
+Baghdad	바그다드
+Iraq	이라크
+Basra	바스라
+ERBIL	아르빌
+NAJAF	나자프
+Isfahan	이스파한
+Iran	이란
+Mashad	마샤드
+Shiraz	시라즈
+Teheran	테헤란
+Reykjavik	레이캬비크
+Iceland	아이슬란드
+Ancona	안코나
+Brindisi	브린디시
+Bologna	볼로냐
+Bari	바리
+Cagliari	칼리아리
+Catania	카타니아
+Florence	프로렌스
+Genoa	제노바
+Lampedusa	람페두사
+Naples	나폴리
+Olbia	올비아
+Perugia	페루자
+Palermo	팔레르모
+Pantelleria	판텔레리아
+Pisa	피사
+Turin	튜린
+Trieste	트리에스테
+Venice	베니스
+Verona	베로나
+Montego Bay	몬테고 베이
+Jamaica	자메이카
+Amman	암만
+Jordan	요르단
+Aqaba	아카바
+Asahikawa	아사히카와
+Aomori	아오모리
+Amami O Shima	아마미오시마
+Akita	아키타
+Shizuoka	시즈오카
+Yamagata	야마가타
+Hakodate	하코다테
+Saga	사가
+Ishigaki	이시가키
+Iwami	이와미
+Izumo	이즈모
+Kochi	고치
+Kita Kyushu	키타큐슈
+Miyazaki	미야자키
+Kagoshima	가고시마
+Kushiro	쿠시로
+Memambetsu	메만베츠
+Miyako	미야코
+Misawa	미사야
+Matsuyama	마쓰야마
+Nagasaki	나가사키
+WAJIMA	와지마
+Obihiro	오비히로
+Oita	오이타
+Odate Noshiro	오다테노시로
+Nakashibetsu	나카시베쓰
+SHIRAHAMA	시라하마
+Shonai	쇼나이
+Tokushima	도쿠시마
+Tottori	톳토리
+Ube	우베
+KOBE	고베
+Yonago	요나고
+Mombasa	몸바사
+Bishkek	비슈켓
+Kyrgyzstan	키르기스스탄
+Phnom Penh	프놈 펜
+Cayman	케이만
+Cayman Islands	케이만아일랜드
+Kazakstan	카자흐스탄
+Almaty	알마티
+Karaganda	카라간다
+Kzyl Orda	크질오르다
+Pavlodar	파블로다르
+Aktau	악타우
+Astana	아스타나
+Uralsk	우랄스크
+Louangphrabang	루앙프라방
+Vientiane	비엔티엔
+Beirut	베이루트
+Lebanon	레바논
+Colombo	콜롬보
+Sri Lanka	스리랑카
+Monrovia	몬로비아
+Liberia	라이베리아
+Maseru	마세루
+Lesotho	레소토
+Vilnius	빌니우스
+Lithuania	리투아니아
+Luxembourg	룩셈부르크
+Riga	리가
+Latvia	라트비아
+Casablanca	카사블랑카
+Morocco	모로코
+Rabat	라바트
+Chisinau	키시네프
+Moldova	몰도바
+Madagascar	마다가스카르
+Skopje	스코페
+Bamako	바마코
+Mali	말리
+Myanmar	미얀마
+NAYPYITAW	네피도
+Yangon	양곤
+Ulaanbaatar	울란바타르
+Mongolia	몽골
+Macau	마카오
+Rota	로타
+Mauritania	모리타니
+Malta	몰타
+Mauritius	모리셔스
+Blantyre	블랜타이어
+Malawi	말라위
+Lilongwe	릴롱궤
+Acapulco	아카풀코
+Mexico	멕시코
+Aguascalientes	아구아스카리엔테스
+Leon	레온
+Cancun	칸쿤
+Chihuahua	치후아후
+Guadalajara	과달라하라
+Mexico City	멕시코 시티
+Merida	메리다
+Monterrey	몬테레이
+San Luis Potosi	산루이스포토시
+Tampico	탐피코
+Tijuana	티후아나
+Torreon	토레온
+Villahermosa	비야에르모사
+Alor Setar	아로세터
+Kota Kinabalu	코타 키나발루
+Bintulu	빈투르
+Johor Bahru	조호루 바루
+Kota Bharu	코다바하루
+Kuching	쿠칭
+Kuantan	콴탄
+Langkawi	랑카위
+Kuala Terengganu	쿠알라테렝가누
+Tawau	타와우
+Beira	베이라
+Mozambique	모잠비크
+Maputo	마푸토
+Windhoek	빈트후크
+Namibia	나미비아
+Noumea	누메아
+New Caledonia	뉴칼레도니아
+Niamey	니아메이
+Niger	니제르
+Abuja	아부자
+Nigeria	나이지리아
+Enugu	에누구주
+Kano	카노
+Lagos	라고스
+Managua	마나과
+Nicaragua	니카라과
+Rotterdam	로테르담
+Aalesund	올레순드
+Norway	노르웨이
+Bergen	베르겐
+Oslo	오슬로
+Stavanger	스타방게르
+Trondheim	트론하임
+Kathmandu	카트만두
+Nepal	네팔
+Blenheim	블레넘
+Dunedin	더니든
+Gisborne	기스번
+Kerikeri	케리케리
+Palmerston	파머스턴
+Rotorua	로토루아
+Tauranga	타우랑가
+Taupo	타우포
+Wanganui	왕거누이
+Whangarei	황거레이
+Queenstown	퀸스타운
+Muscat	무스캇
+Oman	오만
+Salalah	살라라
+Panama City	파나마 시티
+Panama	파나마
+Lima	리마
+Peru	페루
+CLARK	클락
+Davao	다바오
+Kalibo	깔리보
+Islamabad	이슬라마바드
+Pakistan	파키스탄
+Karachi	카라치
+Lahore	라호르
+Multan	물탄
+Gdansk	그단스크
+Poland	폴란드
+Krakow	크라코프
+Katowice	카토비체
+Poznan	포즈난
+Warsaw	바르샤바
+Wroclaw	로클로프
+Faro	파로
+Portugal	포르투갈
+Lisbon	리스본
+Porto	포르토
+Koror	코로르
+Palau	팔라우
+Asuncion	아순시온
+Paraguay	파라과이
+Romania	루마니아
+Constanta	콘스탄짜
+IASI	이아시
+Bucharest	부카레스트
+Belgrade	베오그라드
+Serbia	세르비아
+Anapa	아나파
+Russia	러시아
+Sochi	소치
+Arkhangelsk	아르항겔스크
+Astrakhan	아스트라한
+Chelyabinsk	첼랴빈스크
+Kaliningrad	칼리닌그라드
+Khabarovsk	하바로프스크
+Krasnoyarsk	크라스노야르스크
+Samara	사마라
+Kazan	카잔
+Murmansk	무르만스크
+Magnitogorsk	마그니토고르스크
+Novosibirsk	노보시비르스크
+Perm	페름
+Orenburg	오렌부르크
+Stavropol	스트라브로폴
+Ekaterinburg	예카테린부르크
+Vladivostok	블라디보스톡
+Moscow	모스크바
+Kigali	키갈리
+Rwanda	르완다
+Dammam	다맘
+Taif	타이프
+Praslin Island	프랄린
+Seychelles	세이셸
+Mahe Island	마에 아일랜드
+JUBA	주바
+Gothenburg	고텐버그
+Sweden	스웨덴
+Stockholm	스톡홀름
+Ljubljana	류블리아나
+Slovenia	슬로베니아
+Bratislava	브라티슬라바
+Slovakia	슬로바키아
+Sierra Leone	시에라리온
+Dakar	다카르
+Senegal	세네갈
+MOGADISHU	모가디슈
+Somalia	소말리아
+San Salvador	산살바도르
+El Salvador	엘살바도르
+Chad	차드
+Lome	로메
+Togo	토고
+Chiang Rai	치앙라이
+Chiang Mai	치앙마이
+Krabi	크라비
+Dushanbe	두산베
+Tajikistan	타지키스탄
+Ashgabat	아슈하바드
+Turkmenistan	투르크메니스탄
+Tunis	튀니즈
+Tunisia	튜니지아
+Adana	아다나
+ADIYAMAN	아디야만
+Agri	아리
+Ankara	앙카라
+Kayseri	카이세리
+Antalya	안탈야
+Bingol	빈골
+Bodrum	보드룸
+Diyarbakir	디야르바키르
+Dalaman	댈러만
+Denizli	데니즐리
+Erzincan	에르진잔
+Erzurum	에르주룸
+Elazig	에라지그
+ANADOLU	아나돌루
+Gazipasa	가지파사
+Gaziantep	가지안테프
+HATAY	하타이
+IGDIR	으드르
+ISPARTA	이스파르타
+Izmir	이즈밀
+KAHRAMANMARAS	카흐라만마라스
+Kastamonu	카스타모누
+Kars	카르스
+Konya	코니아
+Kutahya	퀴타히아
+MALATYA	말라티아
+Mardin	마르딘
+Mus	무스
+Nevsehir	네브쉐히르
+Sirnak	시르낙
+Sinop	시놉
+Samsun	삼순
+Trabzon	트라브존
+Sivas	시바스
+YUSEKOVA	하카리
+Hualien	화련
+Kaohsiung	까오슝
+Taipei	타이뻬이
+Taichung	타이중
+Dar Es Salaam	다르에스살람
+Tanzania	탄자니아
+Kilimanjaro	킬리만자로
+Zanzibar	잔지바르
+Dnepropetrovsk	드네프로페트로브스크
+Ukraine	우크라이나
+Kiev	키예프
+Kherson	헤르손
+Odessa	오뎃사
+Simferopol	심페로폴
+Entebbe	엔테베
+Uganda	우간다
+PANAMA CITY	파나마시티
+Anchorage	앵커리지
+Fairbanks	페어뱅크스
+Birmingham	버밍햄
+Dothan	도탄
+Huntsville	헌츠빌
+Montgomery	몽고메리
+Mobile	모빌
+Ft Smith	포트스미스
+Fayetteville	페이트빌
+Little Rock	리틀록
+Texarkana	텍사카나
+Phoenix	피닉스
+Tucson	투산
+Eureka	유레카아카타
+Bakersfield	베이커즈필드
+Carlsbad	칼스배드
+Fresno	프레즈노
+Monterey	몬터레이
+Palm Springs	팜스프링스
+Redding	레딩
+San Diego	샌디에고
+Santa Barbara	산타바바라
+Santa Maria	산타 마리아
+Burbank	버뱅크
+Ontario	온타리오
+ase	아스펜
+Colorado Springs	콜란도 스프링스
+Denver	덴버
+Durango	두랑고
+Eagle	이글
+Grand Junction	그랜드 정션
+Gunnison	구니슨
+Montrose	몬트로즈
+Hartford	하트포드
+Daytona Beach	데이토나 비치
+Key West	키웨스트
+Fort Myers	포트마이어스
+Gainesville	게인즈빌
+Jacksonville	잭슨빌
+Pensacola	펜서콜라
+Sarasota	새러소타
+Tallahassee	탤러해시
+Tampa	탬파
+Ft Walton Beach	포트 월튼비치
+Ft Lauderdale	포트 로더데일
+Miami	마이애미
+West Palm Beach	웨스트팜비치
+Albany	알바니
+Augusta	어거스타
+Columbus	콜롬버스
+Savannah	서배너
+Valdosta	발도스타
+Hilo	힐로
+Kona	코나
+Lihue	리후에
+Lanai	라나이
+Hoolehua	몰로카이
+Kahului	카훌루이
+Cedar Rapids	시더래피즈
+Dubuque	더뷰크
+Boise	보이시
+Idaho Falls	아이다호폴스
+Lewiston	루이스턴
+Pocatello	포커텔로
+Sun Valley	선밸리
+Twin Falls	트윈폴스
+Bloomington	블루밍톤
+Champaign	샴페인
+Moline	멀린
+Peoria	페오리아
+Springfield	스프링필드
+Evansville	에번즈빌
+Ft Wayne	포트웨인
+Indianapolis	인디아나폴리스
+South Bend	사우스벤드
+Wichita	위치토
+Manhattan	맨해튼
+Lexington	렉싱턴
+Paducah	퍼두커
+Louisville	루이빌
+Alexandria	알렉산드리아
+Baton Rouge	배턴루지
+Lake Charles	레이크찰스
+Lafayette	라피엣
+Monroe	먼로
+New Orleans	뉴 올리언스
+Shreveport	슈리브포트
+Baltimore	볼티모어
+Bangor	뱅거
+Portland	포틀랜드
+Alpena	앨피너
+Kalamazoo	캘러머주
+Detroit	디트로이트
+Escanaba	에스커나바
+Flint	플린트
+Grand Rapids	그랜드 래피즈
+Lansing	랜싱
+Marquette	마켓
+Traverse	트래블스
+Bemidji	베미지
+Duluth	덜루스
+Minneapolis	미네아폴리스
+Rochester	로제스터
+Columbia	컬럼비아
+Joplin	졸린
+Kansas City	캔자스시티
+St Louis	세인트루이스
+Gulfport	걸프포트
+Jackson	잭슨
+Billings	빌링스
+Butte	부테
+Bozeman	보제맨
+Kalispell	칼리스펠
+Great Falls	그레이트 폴스
+Missoula	미소울라
+Asheville	애슈빌
+Charlotte	샬럿
+New Bern	뉴번
+Greensboro	그린즈버러
+Wilmington	윌밍턴
+Raleigh	랠리더햄
+Bismarck	비스마르크
+Fargo	파고
+Omaha	오마하
+Manchester	맨체스터
+Albuquerque	앨버커큐
+Roswell	로스웰
+Santa Fe	산타 페
+Elko	엘코
+Reno	리노
+Binghamton	빙햄톤
+Buffalo	버팔로
+Elmira	엘마이라
+White Plains	화이트 플레인스
+Rochester	로체스터
+Newburgh	뉴버그
+Syracuse	시라큐스
+Akron	아크론캔톤
+Cleveland	클리브랜드
+Cincinnati	신시내티
+Dayton	데이턴
+Toledo	토레도
+Lawton	라우튼
+Oklahoma City	오클라호마시티
+Tulsa	툴사
+Eugene	유진
+Medford	메드퍼드
+Redmond	레드몬드
+Allentown	앨렌타운
+Erie	에리
+Harrisburg	해리스버그
+Pittsburgh	피츠버그
+State College	스테이트칼리지
+San Juan	산 후앙
+Providence	프로비던스
+Charleston	찰스턴
+Greenville	그린빌
+Myrtle Beach	미틀 비치
+Rapid City	래피드시티
+Nashville	내쉬빌
+Chattanooga	채터누가
+Memphis	멤피스
+Knoxville	녹스빌
+Abilene	아빌렌
+Waco	와코
+Amarillo	아마릴로
+Austin	오스틴
+Brownsville	브라운즈빌
+Corpus Christi	코퍼스크리스티
+El Paso	엘파소
+Longview	롱뷰
+Lubbock	루복
+Laredo	라리도
+Midland	미드랜드오데사
+McAllen	맥컬린
+San Antonio	샌안토니오
+San Angelo	산안젤로
+Wichita Falls	위치타폴스
+Tyler	테일러
+Houston	휴스톤
+Cedar City	시더시티
+St George	세인트 죠지
+Salt Lake City	솔트레이크시티
+Charlottesville	샬럿스빌
+Newport News	뉴포트뉴스
+Richmond	리치먼드
+Roanoke	로어노크
+Staunton	스톤튼
+Burlington	벌링턴
+Bellingham	벨링햄
+Spokane	스포케인
+Pasco	파스코
+Appleton	애플턴
+Green Bay	그린베이
+La Crosse	라크로세
+Milwaukee	밀워키
+Madison	매디슨
+Cody	코디
+Casper	카스퍼
+Jackson	잭슨홀
+Rock Springs	록 스프링스
+Montevideo	몬테비데오
+Uruguay	우루과이
+Bukhara	부하라
+Uzbekistan	우즈베키스탄
+KARSHI	카르시
+NUKUS	누쿠스
+Tashkent	타쉬켄트
+Caracas	카라카스
+Venezuela	베네수엘라
+Da Nang	다낭
+Nha Trang	나트랑
+Sanaa	싸나
+Yemen	예맨
+Pristina	프리스티나
+Yugoslavia	유고슬라비아
+Podgorica	포드고리차
+Bloemfontein	블룸폰테인
+Durban	더반
+East London	이스트 런던
+George	조지
+Kimberley	킴벌리
+Nelspruit	넬스푸룻
+Port Elizabeth	포트 엘리자베스
+Pietersburg	폴로크와네
+Pietermaritzburg	피터마리츠버그
+Richards Bay	리차드스 베이
+Umtata	음타타
+Lusaka	루사카
+Zambia	잠비아
+Goma	고마
+Bulawayo	불라와요
+Zimbabwe	짐바브웨
+Harare	하라레
+gap	갭
+cat	캣
+book	북
+apt	앱트
+setback	셋백
+act	액트
+stamp	스탬프
+cape	케이프
+nest	네스트
+part	파트
+desk	데스크
+make	메이크
+apple	애플
+mattress	매트리스
+bulb	벌브
+land	랜드
+zigzag	지그재그
+lobster	로브스터
+kidnap	키드냅
+signal	시그널
+mask	마스크
+jazz	재즈
+graph	그래프
+olive	올리브
+thrill	스릴
+bathe	베이드
+flash	플래시
+shrub	슈러브
+shark	샤크
+shank	섕크
+fashion	패션
+sheriff	셰리프
+shopping	쇼핑
+shoe	슈
+shim	심
+mirage	미라지
+vision	비전
+odds	오즈
+switch	스위치
+bridge	브리지
+hitchhike	히치하이크
+chart	차트
+virgin	버진
+steam	스팀
+corn	콘
+ring	링
+lamp	램프
+hint	힌트
+ink	잉크
+hanging	행잉
+longing	롱잉
+hotel	호텔
+pulp	펄프
+slide	슬라이드
+film	필름
+helm	헬름
+swoln	스월른
+team	팀
+route	루트
+time	타임
+house	하우스
+skate	스케이트
+oil	오일
+boat	보트
+tower	타워
+word	워드
+want	원트
+woe	워
+wander	완더
+wag	왜그
+west	웨스트
+witch	위치
+wool	울
+swing	스윙
+twist	트위스트
+penguin	펭귄
+whistle	휘슬
+quarter	쿼터
+yard	야드
+yank	얭크
+yearn	연
+yellow	옐로
+yawn	욘
+you	유
+year	이어
+battalion	버탤리언
+union	유니언
+cuplike	컵라이크
+bookend	북엔드
+headlight	헤드라이트
+touchwood	터치우드
+bookmaker	북메이커
+flashgun	플래시건
+topknot	톱놋
