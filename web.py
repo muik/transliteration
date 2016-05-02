@@ -6,6 +6,13 @@ import subprocess
 from translate import Transliteration
 from flask import Flask, request, render_template, jsonify
 
+path = os.path.dirname(os.path.realpath(__file__))
+print path
+if not os.path.isfile(path + '/train/checkpoint'):
+  subprocess.call(['mkdir', '-p', 'train'])
+  for f in ['checkpoint', 'translate.ckpt-103600', 'translate.ckpt-103600.meta']:
+    subprocess.call(['curl', ('https://raw.githubusercontent.com/muik/transliteration-files/master/%s' % f), '-o', ('train/%s' % f)])
+
 app = Flask(__name__)
 transliteration = Transliteration()
 

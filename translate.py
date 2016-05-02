@@ -171,6 +171,7 @@ def train():
     step_time, loss = 0.0, 0.0
     current_step = 0
     previous_losses = []
+    best_eval_ppx = float('inf')
     while True:
       # Choose a bucket according to data distribution. We pick a random number
       # in [0, 1] and use the corresponding interval in train_buckets_scale.
@@ -204,6 +205,7 @@ def train():
         model.saver.save(sess, checkpoint_path, global_step=model.global_step)
         step_time, loss = 0.0, 0.0
         # Run evals on development set and print their perplexity.
+        eval_ppx_list = []
         for bucket_id in xrange(len(_buckets)):
           if len(dev_set[bucket_id]) == 0:
             print("  eval: empty bucket %d" % (bucket_id))
@@ -213,8 +215,14 @@ def train():
           _, eval_loss, _ = model.step(sess, encoder_inputs, decoder_inputs,
                                        target_weights, bucket_id, True)
           eval_ppx = math.exp(eval_loss) if eval_loss < 300 else float('inf')
+          eval_ppx_list.append(eval_ppx)
           print("  eval: bucket %d perplexity %.2f" % (bucket_id, eval_ppx))
         sys.stdout.flush()
+
+        mean_eval_ppx = np.mean(eval_ppx_list)
+        if mean_eval_ppx < best_eval_ppx:
+          best_eval_ppx = mean_eval_ppx
+          print("BEST mean eval perplexity: %.3f" % best_eval_ppx)
 
 
 def decode():
