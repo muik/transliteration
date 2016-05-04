@@ -242,9 +242,11 @@ def decode():
     if sentence:
       output = transliteration.run(sentence)
       learned = transliteration.is_learned(sentence)
-      print("(%s %s trained word)" % (sentence, learned and 'is' or 'is not'))
+      sys.stdout.flush()
+      if not learned:
+        print("(%s is not trained word)" % sentence)
       print(output)
-    print("> ", end="")
+    sys.stdout.write("> ")
     sys.stdout.flush()
     sentence = sys.stdin.readline()
 
@@ -270,6 +272,8 @@ def self_test():
 
 
 class Transliteration:
+  FNULL = open(os.devnull, 'w')
+
   def __init__(self):
     self.sess = tf.Session()
     self.download_trained_if_not_exists()
@@ -300,7 +304,7 @@ class Transliteration:
 
   def is_learned(self, input):
     path = os.path.join(FLAGS.data_dir, "giga-fren.release2.en")
-    return 0 == subprocess.call(['grep', '-i', '^%s$' % input, path])
+    return 0 == subprocess.call(['grep', '-i', '^%s$' % input, path], stdout=self.FNULL)
 
   def run(self, sentence):
     # Get token-ids for the input sentence.
