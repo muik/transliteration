@@ -15,7 +15,8 @@ def main():
 @app.route("/", methods=['POST'])
 def transliterate():
   input = request.form['input']
-  output, learned = transliteration.run(input)
+  output = transliteration.run(input)
+  learned = transliteration.is_learned(input)
   return jsonify({'input': input, 'output': output, 'learned': learned})
 
 if __name__ == "__main__":

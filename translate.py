@@ -240,7 +240,8 @@ def decode():
   while sentence:
     sentence = sentence.strip()
     if sentence:
-      output, learned = transliteration.run(sentence)
+      output = transliteration.run(sentence)
+      learned = transliteration.is_learned(sentence)
       print("(%s %s trained word)" % (sentence, learned and 'is' or 'is not'))
       print(output)
     print("> ", end="")
@@ -319,8 +320,7 @@ class Transliteration:
     if data_utils.EOS_ID in outputs:
       outputs = outputs[:outputs.index(data_utils.EOS_ID)]
     # Print out French sentence corresponding to outputs.
-    output =  "".join([self.rev_fr_vocab[output] for output in outputs])
-    return output, self.is_learned(output)
+    return "".join([self.rev_fr_vocab[output] for output in outputs])
 
 
 def main(_):
