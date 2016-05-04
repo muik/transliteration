@@ -40,6 +40,7 @@ import os
 import random
 import sys
 import time
+import subprocess
 
 import numpy as np
 from six.moves import xrange  # pylint: disable=redefined-builtin
@@ -229,12 +230,16 @@ def decode():
   transliteration = Transliteration()
 
   # Decode from standard input.
+  print("(Input any English word to transliterate Korean)")
   sys.stdout.write("> ")
   sys.stdout.flush()
   sentence = sys.stdin.readline()
   while sentence:
-    output = transliteration.run(sentence)
-    print(output)
+    sentence = sentence.strip()
+    if sentence:
+      output, learned = transliteration.run(sentence)
+      print("(%s %s trained word)" % (sentence, learned and 'is' or 'is not'))
+      print(output)
     print("> ", end="")
     sys.stdout.flush()
     sentence = sys.stdin.readline()
@@ -263,6 +268,7 @@ def self_test():
 class Transliteration:
   def __init__(self):
     self.sess = tf.Session()
+    self.download_trained_if_not_exists()
 
     # Create model and load parameters.
     self.model = create_model(self.sess, True)
@@ -275,6 +281,22 @@ class Transliteration:
                                  "vocab%d.fr" % FLAGS.fr_vocab_size)
     self.en_vocab, _ = data_utils.initialize_vocabulary(en_vocab_path)
     _, self.rev_fr_vocab = data_utils.initialize_vocabulary(fr_vocab_path)
+
+  def has_trained(self):
+    checkpoint_path = os.path.join(FLAGS.train_dir, "checkpoint")
+    return os.path.isfile(checkpoint_path)
+
+  def download_trained_if_not_exists(self):
+    if self.has_trained():
+      return
+    print('No trained files, download the files..')
+    subprocess.call(['mkdir', '-p', FLAGS.train_dir])
+    for f in ['checkpoint', 'translate.ckpt-73000', 'translate.ckpt-73000.meta']:
+      subprocess.call(['curl', ('https://raw.githubusercontent.com/muik/transliteration-files/master/%s' % f), '-o', ('train/%s' % f)])
+
+  def is_learned(self, input):
+    path = os.path.join(FLAGS.data_dir, "giga-fren.release2.en")
+    return 0 == subprocess.call(['grep', '-i', '^%s$' % input, path])
 
   def run(self, sentence):
     # Get token-ids for the input sentence.
@@ -294,7 +316,8 @@ class Transliteration:
     if data_utils.EOS_ID in outputs:
       outputs = outputs[:outputs.index(data_utils.EOS_ID)]
     # Print out French sentence corresponding to outputs.
-    return "".join([self.rev_fr_vocab[output] for output in outputs])
+    output =  "".join([self.rev_fr_vocab[output] for output in outputs])
+    return output, self.is_learned(output)
 
 
 def main(_):
