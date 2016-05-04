@@ -295,7 +295,7 @@ class Transliteration:
       return
     print('No trained files, download the files..')
     subprocess.call(['mkdir', '-p', FLAGS.train_dir])
-    for f in ['checkpoint', 'translate.ckpt-73000', 'translate.ckpt-73000.meta']:
+    for f in ['checkpoint', 'translate.ckpt-32900', 'translate.ckpt-32900.meta']:
       subprocess.call(['curl', ('https://raw.githubusercontent.com/muik/transliteration-files/master/%s' % f), '-o', ('train/%s' % f)])
 
   def is_learned(self, input):
