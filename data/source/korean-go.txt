@@ -1,3 +1,6 @@
+# 국립국어원의 외래어 표기법의 용례
+# http://www.korean.go.kr/front/foreignSpell/foreignSpellList.do?mn_id=96
+# https://www.data.go.kr/subMain.jsp?param=REFUQUAxNTAwMzkxMg==#/L2NvbW0vY29tbW9uU2VhcmNoL29yZ2luRGF0YVNldCRAXjAxMm0xJEBecHVibGljRGF0YVBrPTE1MDAzOTEyJEBeYnJtQ2Q9T0MwMDA4JEBeZXhjZWxDb3VudD0wJEBeZG93bmxvYWRDb3VudD05MyRAXm9yZ0luZGV4PURBVEEkQF5za2lwUm93cz0wJEBebWF4Um93cz0xMA==
 gahnite	가나이트
 garnetting	가네팅
 GANEFO	가네포
