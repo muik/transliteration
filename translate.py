@@ -119,7 +119,7 @@ def read_data(source_path, target_path, max_size=None):
             diffs.append(source_size - len(source_ids) + target_size - len(target_ids))
             break
         source, target = source_file.readline(), target_file.readline()
-  print("mean padding count: %f" % np.mean(diffs))
+  #print("mean padding count: %f" % np.mean(diffs))
   return data_set
 
 
@@ -226,7 +226,7 @@ def train():
         mean_eval_ppx = np.mean(eval_ppx_list)
         if mean_eval_ppx < best_eval_ppx:
           best_eval_ppx = mean_eval_ppx
-          print("BEST mean eval perplexity: %.3f" % best_eval_ppx)
+          #print("BEST mean eval perplexity: %.3f" % best_eval_ppx)
 
 
 def decode():
