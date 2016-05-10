@@ -94,7 +94,6 @@ gazania	가자니아
 Ghazan Khan	가잔칸
 Gazette	가제트
 gazelle	가젤
-garter--	가터뜨기
 garter belt	가터벨트
 Catholic	가톨릭
 GATT	가트
@@ -121,7 +120,6 @@ Garland	갈런드
 Galle	갈레
 Galenos	갈레노스
 Galois	갈루아
-Gallois--	갈루아벌레
 gallium	갈륨
 Gallimard	갈리마르
 garlic	갈릭
@@ -310,7 +308,7 @@ Guarini	과리니
 Guarino	과리노
 guayule	과율
 guaiacol	과이어콜
-Guam	괌 섬
+Guam	괌
 Goebel	괴벨
 Goebbels	괴벨스
 Goethe	괴테
@@ -396,7 +394,7 @@ graphic terminal	그래픽터미널
 graphic panel	그래픽패널
 grand	그랜드
 Grand Rapids	그랜드래피즈
-Grand Bahama-	그랜드바하마 섬
+Grand Bahama	그랜드바하마
 Grand Banks	그랜드뱅크스
 grand style	그랜드스타일
 grandstand	그랜드스탠드
@@ -453,7 +451,7 @@ Greco-Roman	그레코로만
 Grekov	그레코프
 Grenville	그렌빌
 Grenfell	그렌펠
-Sir Wilfred Thomaso	윌프레드 토머슨
+Wilfred Thomaso	윌프레드 토머슨
 Gros	그로
 groggy	그로기
 Gromaire	그로메르
@@ -686,7 +684,7 @@ Naumann	나우만
 Naidu	나이두
 nydrazid	나이드라지드
 Naiman	나이만
-naive--	나이브하다
+naive	나이브
 Neisser	나이서
 Niagara Falls	나이아가라폴스
 Nike	나이키
@@ -1036,7 +1034,7 @@ new media	뉴미디어
 new millennium	뉴밀레니엄
 New Bedford	뉴베드퍼드
 Newbolt	뉴볼트
-New Britain-	뉴브리튼 섬
+New Britain	뉴브리튼
 new business	뉴비즈니스
 new science	뉴사이언스
 new ceramics	뉴세라믹스
@@ -1053,7 +1051,7 @@ news camera	뉴스카메라
 news caster	뉴스캐스터
 news ticker	뉴스티커
 new cinema	뉴시네마
-New Ireland-	뉴아일랜드 섬
+New Ireland	뉴아일랜드
 New Atlantis	뉴아틀란티스
 Newark	뉴어크
 new age	뉴에이지
@@ -1064,9 +1062,9 @@ new wave	뉴웨이브
 New England	뉴잉글랜드
 new jazz	뉴재즈
 new journalism	뉴저널리즘
-New Georgia-	뉴조지아 섬
+New Georgia	뉴조지아
 New Zealand	뉴질랜드
-New Caledonia-	뉴칼레도니아 섬
+New Caledonia	뉴칼레도니아
 New Cascade Tunnel	뉴캐스케이드터널
 Newcastle	뉴캐슬
 New Castle	뉴캐슬
@@ -1096,7 +1094,7 @@ new painting	뉴페인팅
 Newport	뉴포트
 Newport Jazz Festival	뉴포트재즈페스티벌
 New Frontier	뉴프런티어
-New Providence-	뉴프로비던스 섬
+New Providence	뉴프로비던스
 New Plymouth	뉴플리머스
 New Philippines	뉴필리핀
 new heavy	뉴헤비
@@ -1136,7 +1134,6 @@ knickers	니커스
 Nicholson	니컬슨
 Ben	벤
 Nicolson	니컬슨
-Nice	니케
 nikethamide	니케서마이드
 nickel	니켈
 nickel silver	니켈실버
@@ -1221,7 +1218,6 @@ Darchan	다르한
 Darius	다리우스
 damaru	다마루
 dammar	다마르
-dama--	다마사슴
 damask	다마스크
 Damocles	다모클레스
 Damiani	다미아니
@@ -1253,7 +1249,7 @@ Darwin	다윈
 die	다이
 dynamic RAM	다이내믹램
 dynamic meter	다이내믹미터
-dynamic--	다이내믹하다
+dynamic	다이나믹
 dynamite	다이너마이트
 dynamo	다이너모
 dynamometer	다이너모미터
@@ -1715,7 +1711,7 @@ dugong	듀공
 DEW line	듀라인
 Durant	듀랜트
 William Crapo	윌리엄 크레이포
-durum-	듀럼밀
+durum	듀럼
 dewberry	듀베리
 Du Bois	듀보이스
 deuce	듀스
@@ -1786,7 +1782,6 @@ dress shirts	드레스셔츠
 dress up	드레스업
 dress form	드레스폼
 dressy	드레시
-dressy--	드레시하다
 dressing	드레싱
 dressing gown	드레싱가운
 Drake	드레이크
@@ -2244,9 +2239,7 @@ lidar	라이다
 rider	라이더
 riding coat	라이딩 코트
 lima bean	라이머빈
-lima-	라이머콩
 Lyman	라이먼
-rye-	라이밀
 Ray Ban	라이방
 rival	라이벌
 library	라이브러리
@@ -2395,7 +2388,7 @@ Karl Gottfried	카를 고트프리트
 RAPCON	랍콘
 Laon	랑
 Lange	랑게
-Langerhans-	랑게르한스섬
+Langerhans	랑게르한스
 Languedoc	랑그도크
 langshan	랑산
 Lang Son	랑선
@@ -2420,13 +2413,12 @@ Laski	래스키
 Harold Joseph	해럴드 조지프
 raster	래스터
 latch	래치
-Latch--	래치바늘
 ratchet	래칫
 lacquer	래커
 rattle	래틀
 latitude	래티튜드
 Raffles	래플스
-Sir Thomas Stamford	토머스 스탬퍼드
+Thomas Stamford	토머스 스탬퍼드
 lapping	래핑
 lac	랙
 rack	랙
@@ -2477,7 +2469,7 @@ Langley	랭글리
 Langmuir	랭뮤어
 Rimbaud	랭보
 Lancaster	랭커스터
-rank--	랭크되다
+rank	랭크
 Rankine	랭킨
 Rankine cycle	랭킨사이클
 ranking	랭킹
@@ -2544,7 +2536,7 @@ rhm	럼
 lumber paper	럼버페이퍼
 Rumsey	럼지
 Rumford	럼퍼드
-Sir Benjamin Thompson	벤저민 톰프슨
+Benjamin Thompson	벤저민 톰프슨
 Graf von	그라프 폰
 Re	레
 legatissimo	레가티시모
@@ -2674,7 +2666,7 @@ lake	레이크
 rake	레이크
 Lake school	레이크스쿨
 Lake Placid	레이크플래시드
-Leyte-	레이테 섬
+Leyte	레이테
 raytracing	레이트레이싱
 lane	레인
 Rainwater	레인워터
@@ -2789,7 +2781,7 @@ Rodin	로댕
 loader	로더
 rodeo	로데오
 Rodenbach	로덴바흐
-Rhodos-	로도스 섬
+Rhodos	로도스
 rhodohypoxis	로도히폭시스
 rhodopsin	로돕신
 rod	로드
@@ -2834,7 +2826,7 @@ romance	로맨스
 romanticist	로맨티시스트
 romanticism	로맨티시즘
 romantic look	로맨틱 룩
-romantic--	로맨틱하다
+romantic	로맨틱
 Romains	로맹
 Romain Rolland	로맹 롤랑
 Romeo	로메오
@@ -2847,7 +2839,7 @@ Romeo-Juliet	로미오와 줄리엣
 lovastatin	로바스타틴
 rover	로버
 Robertson	로버트슨
-Sir Dennis Holme	데니스 홀름
+Dennis Holme	데니스 홀름
 Robespierre	로베스피에르
 lobelia	로벨리아
 lobeline	로벨린
@@ -2855,7 +2847,7 @@ robotology	로보톨로지
 robolution	로볼루션
 robot	로봇
 lob	로브
-lobster	로브스터
+lobster	랍스터
 low blow	로블로
 lobby	로비
 lobby lounge	로비라운지
@@ -3045,7 +3037,7 @@ ROM	롬
 loam	롬
 Romney Marsh	롬니마시
 Lombard rate	롬바드레이트
-Lombok-	롬복 섬
+Lombok	롬복
 Lombroso	롬브로소
 rompers	롬퍼스
 Long	롱
@@ -3065,7 +3057,7 @@ long swing	롱스윙
 long skirt	롱스커트
 long stride	롱스트라이드
 long stroke	롱스트로크
-Long Island-	롱아일랜드 섬
+Long Island	롱아일랜드
 long and short stitch	롱앤드쇼트스티치
 long evening tank	롱이브닝탱크
 longcloth	롱클로스
@@ -3105,7 +3097,7 @@ rubidium	루비듐
 Roussel	루셀
 Rousseau	루소
 Henri	앙리
-Luzon-	루손 섬
+Luzon	루손
 Luce	루스
 Ruth	루스
 loose	루스
@@ -3113,10 +3105,10 @@ Roosevelt	루스벨트
 Franklin Delano	프랭클린 델러노
 loose ball	루스볼
 loose scrum	루스스크럼
-loose--	루스하다
+loose	루스
 Lucifer	루시퍼
 luciferin	루시페린
-lure--	루어낚시
+lure	루어
 Rouault	루오
 Louis Philippe	루이 필리프
 Louisville	루이빌
@@ -3231,7 +3223,7 @@ John	존
 Reid	리드
 lead guitar	리드기타
 leadman	리드맨
-rhythmical--	리드미컬하다
+rhythmical	리드미컬
 reed organ	리드오르간
 lead-off	리드오프
 rhythm	리듬
@@ -3263,7 +3255,7 @@ rebound	리바운드
 rebound ball	리바운드볼
 revival	리바이벌
 The Leviathan	리바이어던
-liberal--	리버럴하다
+liberal	리버럴
 reversible	리버서블
 reversal film	리버설필름
 reverse roll	리버스롤
@@ -3352,7 +3344,6 @@ reality	리얼리티
 realtime	리얼타임
 realtime system	리얼타임시스템
 real player	리얼플레이어
-real--	리얼하다
 reengineering	리엔지니어링
 riel	리엘
 Lyot	리오
@@ -3567,7 +3558,7 @@ mannequin	마네킹
 manometer	마노미터
 Manon Lescaut	마농 레스코
 Manu	마누
-Manus-	마누스 섬
+Manus	마누스
 Manuel	마누엘
 Mani	마니
 mania	마니아
@@ -3701,7 +3692,7 @@ Minot	마이넛
 Meinecke	마이네케
 Meinong	마이농
 Maimonides	마이모니데스
-Meibom-	마이봄샘
+Meibom	마이봄
 Meistersinger	마이스터징거
 mycin	마이신
 mycillin	마이실린
@@ -3955,7 +3946,7 @@ monetary survey	머니터리서베이
 monetarism	머니터리즘
 manipulation	머니퓰레이션
 manipulator	머니퓰레이터
-motherboard	머더보드
+motherboard	마더보드
 mother tape	머더테이프
 MUD	머드
 Murry	머리
@@ -4010,7 +4001,7 @@ multishop	멀티숍
 multiscreen	멀티스크린
 multiway	멀티웨이
 multiway speaker system	멀티웨이스피커시스템
-multi-window	멀티윈도
+multi-window	멀티윈도우
 multiuser	멀티유저
 multichannel	멀티채널
 multicube	멀티큐브
@@ -4243,13 +4234,13 @@ Melozzo da Forli	멜로초 다포를리
 melon	멜론
 melinite	멜리나이트
 melissa	멜리사
-Mehlis-	멜리스샘
+Mehlis	멜리스
 Georges	조르주
 melilite	멜릴라이트
 Melba	멜바
 Dame Nellie	데임 넬리
 Melbourne	멜버른
-Melville-	멜빌 섬
+Melville	멜빌
 melton	멜턴
 Memnon	멤논
 member	멤버
@@ -4428,7 +4419,6 @@ Montelius	몬텔리우스
 Montreal	몬트리올
 Montpelier	몬트필리어
 Monti	몬티
-monti-	몬티새
 maul	몰
 mole	몰
 mold	몰드
@@ -4641,7 +4631,7 @@ Michels	미헬스
 mixer	믹서
 mix	믹스
 mix mode	믹스 모드
-Mindoro-	민도로 섬
+Mindoro	민도로
 mince	민스
 mince beef	민스비프
 mince eggs	민스에그스
@@ -4708,7 +4698,7 @@ Banach	바나흐
 Banja Luka	바냐루카
 Barnard	바너드
 varnish	바니시
-banyan--	바니안나무
+banyan	바니안
 vanilla	바닐라
 vanillin	바닐린
 Baden Baden	바덴바덴
@@ -4784,7 +4774,7 @@ basilicon	바실리콘
 Bayan	바얀
 Vailland	바양
 Vallejo	바예호
-baobab--	바오바브나무
+baobab	바오바브
 Baumeister	바우마이스터
 bow thruster	바우스러스터
 Bauer	바우어
@@ -4927,7 +4917,6 @@ vanda	반다
 Van Dyck	반다이크
 vandalism	반달리즘
 barn dance	반댄스
-Van der Waals--	반데르발스의 힘
 Bandello	반델로
 bandora	반도라
 Bandoeng	반둥
@@ -5094,7 +5083,7 @@ buggy car	버기카
 burner	버너
 Burnett	버넷
 Burnet	버넷
-Sir  Macfarlane	맥팔레인
+Macfarlane	맥팔레인
 Burney	버니
 vernier	버니어
 vernier callipers	버니어캘리퍼스
@@ -5206,7 +5195,7 @@ begaton	베가톤
 Weygand	베강
 Wegener	베게너
 begonia	베고니아
-Begin	베긴
+Begin	비긴
 Benavente y Martinez	베나벤테
 Benin	베냉
 Benjamin	베냐민
@@ -5291,7 +5280,7 @@ Behring	베링
 bevatron	베바트론
 Weber	베버
 Beveridge	베버리지
-Sir William Henry	윌리엄 헨리
+William Henry	윌리엄 헨리
 Bevan	베번
 Webern	베베른
 Bebel	베벨
@@ -5302,7 +5291,7 @@ Bevin	베빈
 Bessarabia	베사라비아
 Vesalius	베살리우스
 Bessemer	베서머
-Sir Henry	헨리
+Henry	헨리
 Bessel	베셀
 Vesaas	베소스
 Bes	베스
@@ -5363,7 +5352,7 @@ vapor lock	베이퍼로크
 veil	베일
 Beza	베자
 Betjeman	베처먼
-Sir John	존
+John	존
 Beccaria	베카리아
 Becket	베켓
 Becque	베크
@@ -5699,7 +5688,6 @@ Boumedienne	부메디엔
 boomerang	부메랑
 bouvardia	부바르디아
 booby	부비
-Bouvines--	부빈싸움
 Busse	부세
 Boucher	부셰
 bushel	부셸
@@ -5826,7 +5814,7 @@ Henry de	헨리 더
 brand	브랜드
 brandy	브랜디
 Brangwyn	브랭귄
-Sir Frank	프랭크
+Frank	프랭크
 brush	브러시
 brush ball	브러시볼
 brushing	브러싱
@@ -5891,7 +5879,7 @@ brunette	브루넷
 Bruno	브루노
 Bruce	브루스
 Brewster	브루스터
-Sir David	데이비드
+David	데이비드
 brucine	브루신
 Bruckner	브루크너
 Brugmann	브루크만
@@ -5908,7 +5896,6 @@ Breton	브르통
 brigantine	브리간틴
 Briggs	브리그스
 Brynner	브리너
-Brinell--	브리넬굳기
 breeder	브리더
 bristol	브리스틀
 Bristol	브리스틀
@@ -6137,7 +6124,7 @@ BCD	비시디
 BCG	비시지
 biacetyl	비아세틸
 BIS	비아이에스
-Biak-	비악 섬
+Biak	비악
 Villa	비야
 beer	비어
 Beard	비어드
@@ -6157,7 +6144,7 @@ Viau	비오
 Biot	비오
 BOD	비오디
 bios	비오스
-Bioko-	비오코 섬
+Bioko	비오코
 Viotti	비오티
 biotin	비오틴
 Biofermin	비오페르민
@@ -6176,7 +6163,7 @@ Bizet	비제
 visual design	비주얼디자인
 visual language	비주얼랭귀지
 visual communication	비주얼커뮤니케이션
-visual--	비주얼하다
+visual	비주얼
 beads	비즈
 business	비즈니스
 business game	비즈니스게임
@@ -6195,7 +6182,6 @@ beaker	비커
 beacon	비컨
 Vico	비코
 bikini	비키니
-Bikini-	비키니 섬
 vitamin	비타민
 vitamin D	비타민 디
 vitamin B	비타민 비
@@ -6263,7 +6249,7 @@ Binswanger	빈스방거
 Wien appeal	빈어필
 Vinci	빈치
 vincristine	빈크리스틴
-Bintan-	빈탄 섬
+Bintan	빈탄
 binturong	빈투롱
 vintage	빈티지
 vintage clothing	빈티지 클로딩
@@ -6334,10 +6320,10 @@ Sartre	사르트르
 Sarpedon	사르페돈
 Sariyan	사리얀
 samarium	사마륨
-Samar-	사마르 섬
+Samar	사마르
 Samain	사맹
 Samori	사모리
-Samos-	사모스 섬
+Samos	사모스
 samoyed	사모예드
 Samuel	사무엘
 savanna	사바나
@@ -6359,7 +6345,7 @@ Southampton	사우샘프턴
 South Dakota	사우스다코타
 South Australia	사우스오스트레일리아
 southwest	사우스웨스트
-South Georgia-	사우스조지아 섬
+South Georgia	사우스조지아
 South Carolina	사우스캐롤라이나
 southpaw	사우스포
 sound	사운드
@@ -6410,7 +6396,6 @@ cybernetics	사이버네틱스
 cyber trading	사이버트레이딩
 cyborg	사이보그
 science	사이언스
-sisal-	사이잘삼
 size	사이즈
 sizing	사이징
 psychograph	사이코그래프
@@ -6827,7 +6812,6 @@ Saint Louis	세인트루이스
 Saint Louis Blues	세인트루이스블루스
 Saint Bernard	세인트버나드
 Saint Andrews	세인트앤드루스
-Saint Elmo--	세인트엘모의 불
 Saint Augustine	세인트오거스틴
 Saint John	세인트존
 saintpaulia	세인트폴리아
@@ -6881,7 +6865,7 @@ sex check	섹스체크
 sextant	섹스턴트
 sextet	섹스텟
 Sextus Empiricus	섹스투스 엠피리쿠스
-sexy--	섹시하다
+sexy	섹시
 sector	섹터
 senna	센나
 sendalloy	센달로이
@@ -6916,7 +6900,7 @@ centroid	센트로이드
 centigram	센티그램
 centiliter	센티리터
 sentimentalism	센티멘털리즘
-sentimental--	센티멘털하다
+sentimental	센티멘털
 centimeter	센티미터
 cell	셀
 SELA	셀라
@@ -7049,7 +7033,7 @@ sociogram	소시오그램
 sausage	소시지
 soilcement	소일시멘트
 socket	소켓
-Socotra-	소코트라 섬
+Socotra	소코트라
 Socrates	소크라테스
 Salk Vaccine	소크백신
 sort	소트
@@ -7116,7 +7100,7 @@ show window	쇼윈도
 shorts	쇼츠
 shock	쇼크
 Shockley	쇼클리
-shocking--	쇼킹하다
+shocking	쇼킹
 Chautemps	쇼탕
 short	쇼트
 shortening	쇼트닝
@@ -7181,7 +7165,7 @@ Sufism	수피즘
 Sukhumi	수후미
 succinylcholine	숙시닐콜린
 Zunzunegui	순수네기
-Sulawesi-	술라웨시 섬
+Sulawesi	술라웨시
 sulindac	술린닥
 sultan	술탄
 sulfaguanidine	술파구아니딘
@@ -7195,7 +7179,6 @@ sulfonal	술포날
 sulfonyl	술포닐
 sulfone	술폰
 sulfonamide	술폰아미드
-sulphurata--	술푸라타멧새
 sulfisomidine	술피소미딘
 sulfisoxazole	술피속사졸
 Sue	쉬
@@ -7740,7 +7723,6 @@ strip mill	스트립밀
 string	스트링
 Stieglitz	스티글리츠
 styrene	스티렌
-styrenebutadiene--	스티렌부타디엔고무
 styrene paper	스티렌페이퍼
 styrofoam	스티로폼
 styrol	스티롤
@@ -7842,7 +7824,7 @@ sports center	스포츠센터
 sports car	스포츠카
 Spokane	스포캔
 spotlight	스포트라이트
-sporty--	스포티하다
+sporty	스포티
 sponsor	스폰서
 Spontini	스폰티니
 spot	스폿
@@ -7985,10 +7967,10 @@ cine-miracle	시네미러클
 Cinesco	시네스코
 cinecamera	시네카메라
 Signorelli	시뇨렐리
-sinus-	시누스샘
+sinus	시누스
 cynicism	시니시즘
 Senior	시니어
-cynical--	시니컬하다
+cynical	시니컬
 cedar	시더
 siderostat	시데로스탯
 seed	시드
@@ -8278,7 +8260,7 @@ symphonic ballet	심포닉발레
 symphonic jazz	심포닉재즈
 symposium	심포지엄
 Simpson	심프슨
-Simplon--	심플론고개
+Simplon	심플론
 Simplon Tunnel	심플론터널
 sit-down strike	싯다운스트라이크
 Synge	싱
@@ -8401,7 +8383,7 @@ are	아르
 argali	아르갈리
 Arghezi	아르게지
 Argelander	아르겔란더
-Argo--	아르고자리
+Argo	아르고
 argon	아르곤
 argon gas	아르곤가스
 argon laser	아르곤레이저
@@ -8427,7 +8409,6 @@ RSC	아르에스시
 rH	아르에이치
 Rh negative	아르에이치 네거티브
 Rh positive	아르에이치 포지티브
-Rf-	아르에프값
 RNA	아르엔에이
 RMC	아르엠시
 ROI	아르오아이
@@ -8664,7 +8645,7 @@ eye liner	아이라이너
 eye line	아이라인
 eyelash curler	아이래시컬러
 irony	아이러니
-ironical--	아이로니컬하다
+ironical	아이로니컬
 iris	아이리스
 iris out	아이리스아웃
 iris in	아이리스인
@@ -8699,7 +8680,6 @@ ice	아이스
 ice dagger	아이스대거
 ice dancing	아이스댄싱
 ice rink	아이스링크
-ice--	아이스물감
 icebox	아이스박스
 ice show	아이스쇼
 ice skate	아이스스케이트
@@ -8856,7 +8836,7 @@ arch dam	아치댐
 arch motion	아치모션
 academy	아카데미
 academism	아카데미즘
-academic--	아카데믹하다
+academic	아카데믹
 Akkad	아카드
 acarus	아카루스
 acacia	아카시아
@@ -8929,7 +8909,7 @@ aphorism	아포리즘
 apomorphine	아포모르핀
 apostrophe	아포스트로피
 Apocrypha	아포크리파
-apocrine-	아포크린샘
+apocrine	아포크린
 Apollo	아폴로
 Apollonios	아폴로니오스
 Apollonius	아폴로니우스
@@ -8963,14 +8943,14 @@ actinium K	악티늄 케이
 actinide	악티니드
 Angelus Silesius	안겔루스 질레지우스
 Anna Karenina	안나 카레니나
-Andalusia--	안달루시아의 개
+Andalusia	안달루시아
 Andalusian	안달루시안
 Andersen	안데르센
 Andersson	안데르손
 androgen	안드로겐
 Andromache	안드로마케
 Andromeda	안드로메다
-Andros-	안드로스 섬
+Andros	안드로스
 android	안드로이드
 ANSA	안사
 ANSI	안시
@@ -9123,7 +9103,7 @@ ammonium	암모늄
 ammonium ion	암모늄 이온
 ammonium amalgam	암모늄아말감
 ammonia	암모니아
-ammon--	암몬조개
+ammon	암몬
 ammeter	암미터
 Ambrosius	암브로시우스
 Amsterdam International	암스테르담인터내셔널
@@ -9244,7 +9224,7 @@ antimissile	앤티미사일
 antique	앤티크
 anticreeper	앤티크리퍼
 antiproton	앤티프로톤
-antic--	앤틱하다
+antic	앤틱
 Alamogordo	앨라모고도
 Alabama	앨라배마
 alabamine	앨라배민
@@ -9313,7 +9293,7 @@ Ady	어디
 Arany	어러니
 ermine	어민
 Irving	어빙
-Ascension-	어센션 섬
+Ascension	어센션
 assembler	어셈블러
 assembly line	어셈블리라인
 assemblage	어셈블리지
@@ -9352,7 +9332,7 @@ underhand pass	언더핸드패스
 unlucky net	언러키네트
 unbalance	언밸런스
 unbalance look	언밸런스룩
-unbalance--	언밸런스하다
+unbalance	언밸런스
 uncut	언커트
 UNCOK	언코크
 untied loan	언타이드론
@@ -9410,7 +9390,7 @@ Eros	에로스
 EROA	에로아
 Eroica	에로이카
 eroticism	에로티시즘
-erotic--	에로틱하다
+erotic	에로틱
 Paul Louis Toussaint	폴 루이 투생
 ergograph	에르고그래프
 ergometer	에르고미터
@@ -9458,7 +9438,7 @@ emigrant	에미그런트
 Eminescu	에미네스쿠
 Evangelin	에반젤린
 Everest	에버리스트
-Sir George	조지
+George	조지
 Evers	에버스
 Evans	에번스
 Arthur John	아서 존
@@ -9564,7 +9544,7 @@ aerobic dance	에어로빅댄스
 aerobics	에어로빅스
 aerosol	에어로졸
 Airy	에어리
-Sir George Biddell	조지 비덜
+George Biddell	조지 비덜
 aerial	에어리얼
 air bag	에어백
 air valve	에어밸브
@@ -9728,7 +9708,7 @@ ECU	에큐
 ecumenopolis	에큐메노폴리스
 Ecumenism	에큐메니즘
 Eck	에크
-eccrine-	에크린샘
+eccrine	에크린
 Ekhof	에크호프
 eclogite	에클로자이트
 Echinorhynchus	에키노린쿠스
@@ -9796,7 +9776,6 @@ FMS	에프엠에스
 FO	에프오
 FOB	에프오비
 FOBS	에프오비에스
-FOR	에프오아르
 FOA	에프오에이
 F one	에프원
 FEAF	에프이에이에프
@@ -9825,7 +9804,7 @@ exon	엑손
 X-ray	엑스레이
 XXX	엑스엑스엑스
 X-Y plotter	엑스와이플로터
-X windows	엑스윈도
+X windows	엑스윈도우
 excavator	엑스커베이터
 ecstasy	엑스터시
 extra	엑스트라
@@ -9896,7 +9875,7 @@ NTB	엔티비
 NPT	엔피티
 enharmonic	엔하모닉
 Elgar	엘가
-Sir Edward	에드워드
+Edward	에드워드
 Elgin	엘긴
 Elgin marbles	엘긴마블스
 ELDO	엘도
@@ -10464,7 +10443,7 @@ Albany	올버니
 Olbers	올베르스
 Olbrich	올브리히
 all-star game	올스타게임
-allspice--	올스파이스나무
+allspice	올스파이스
 all wave	올웨이브
 all-in-one	올인원
 Alcott	올컷
@@ -10527,7 +10506,7 @@ Wilder	와일더
 Wilde	와일드
 wild card	와일드카드
 wildcat strike	와일드캣스트라이크
-wild--	와일드하다
+wild	와일드
 Watt	와트
 watt	와트
 wattmeter	와트미터
@@ -10558,7 +10537,6 @@ Yorkshire	요크셔
 Yorkshire terrier	요크셔테리어
 yorkshire pudding	요크셔푸딩
 Yorktown	요크타운
-Yoktown--	요크타운싸움
 yacht	요트
 Johannes de la Cruce	요한네스
 Johannsen	요한센
@@ -10773,7 +10751,7 @@ wicket	위킷
 wicketkeeper	위킷키퍼
 wit	위트
 Utrillo	위트릴로
-window	윈도
+window	윈도우
 window-shopping	윈도쇼핑
 windbreaker	윈드브레이커
 windsurfing	윈드서핑
@@ -10850,13 +10828,13 @@ europium	유로퓸
 yurt	유르트
 Urey	유리
 humor	유머
-humorous--	유머러스하다
+humorous	유머러스
 humoresque	유머레스크
 Juventas	유벤타스
 U-boat	유보트
 UV	유브이
 UV filter	유브이필터
-Euboea-	유비아 섬
+Euboea	유비아
 USAID	유세이드
 Eustachio	유스타키오
 Justinianus	유스티니아누스
@@ -10914,7 +10892,7 @@ Eupolis	유폴리스
 euphemism	유피미즘
 UPI	유피아이
 UPU	유피유
-Jupiter	유피테르
+Iuppiter	유피테르
 Euhemeros	유헤메로스
 Ulysses	율리시스
 Julianus	율리아누스
@@ -11110,9 +11088,9 @@ Ichthyostega	익티오스테가
 in	인
 in-goal	인골
 Innocentius	인노켄티우스
-indamine--	인다민물감
+indamine	인다민
 indan	인단
-indanthrene--	인단트렌물감
+indanthrene	인단트렌
 industrial dynamics	인더스트리얼다이내믹스
 inductance	인덕턴스
 index	인덱스
@@ -11266,7 +11244,7 @@ imhoff cone	임호프콘
 imhoff tank	임호프탱크
 Ibsenism	입세니즘
 Ibsen	입센
-Ipsos--	입소스싸움
+Ipsos	입소스
 Ipswich	입스위치
 Inge	잉
 ingot	잉곳
@@ -11278,7 +11256,7 @@ ink	잉크
 inkstand	잉크스탠드
 inkjet printer	잉크젯프린터
 Janet	자네
-Sadowa--	자도바싸움
+Sadowa	자도바
 Zadruga	자드루가
 Zarathustra	자라투스트라
 Jarry	자리
@@ -11421,7 +11399,7 @@ Jeffers	제퍼스
 Jefferson	제퍼슨
 Jefferson City	제퍼슨시티
 Jeffreys	제프리스
-Sir Harold	해럴드
+Harold	해럴드
 Zephyros	제피로스
 gentleman	젠틀맨
 Gentile	젠틸레
@@ -11479,7 +11457,7 @@ Zonta Club	존타클럽
 Zola	졸라
 Jolivet	졸리베
 Joliot-Curie	졸리오퀴리
-Jolly--	졸리저울
+Jolly	졸리
 Giolitti	졸리티
 Sombart	좀바르트
 Juno	주노
@@ -11680,7 +11658,6 @@ Chambers	체임버스
 Chamberlain	체임벌린
 Neville	네빌
 Chamberlin	체임벌린
-tsetse--	체체파리
 checker	체커
 Cecchetti	체케티
 Czechoslovakia	체코슬로바키아
@@ -11772,7 +11749,7 @@ Carnegie Hall	카네기홀
 carnation	카네이션
 Canova	카노바
 carnotite	카노타이트
-canon	카논
+kanon	카논
 canoe	카누
 carnival	카니발
 cadaverine	카다베린
@@ -11875,7 +11852,7 @@ Cameroon	카메룬
 Kamehameha	카메하메하
 Kamennaya baba	카멘나야바바
 chameleon	카멜레온
-Chamaeleon--	카멜레온자리
+Chamaeleon	카멜레온
 Camus	카뮈
 carmine	카민
 Cabanis	카바니
@@ -11953,7 +11930,7 @@ Cayenne	카옌
 cayenne pepper	카옌페퍼
 kaolinite	카올리나이트
 kaolin	카올린
-Kauri--	카우리고무
+Kauri	카우리
 kauri copal	카우리코펄
 cowboy	카우보이
 Kautsky	카우츠키
@@ -12387,7 +12364,7 @@ color scanner	컬러스캐너
 color slide	컬러슬라이드
 color television	컬러텔레비전
 color facsimile	컬러팩시밀리
-colorful--	컬러풀하다
+colorful	컬러풀
 color film	컬러필름
 color filter	컬러필터
 columbite	컬럼바이트
@@ -12466,7 +12443,7 @@ Carry	캐리
 Joyce	조이스
 Carey	케리
 cairn terrier	케언테리어
-Cheopis--	케오피스벼룩
+Cheopis	케오피스
 Kay	케이
 Key	케이
 K band	케이 밴드
@@ -12643,10 +12620,10 @@ Co-Marketing	코마케팅
 Comanche	코만치
 comber	코머
 comber web	코머웹
-Common Sense	코먼 센스
-common law	코먼로
-Commons	코먼스
-Commonwealth	코먼웰스
+Common Sense	커먼 센스
+common law	커먼로
+Commons	커먼즈
+Commonwealth	커먼웰스
 Comenius	코메니우스
 COMECON	코메콘
 Comex	코멕스
@@ -12899,7 +12876,6 @@ collodion	콜로디온
 Colorado	콜로라도
 Colorado Springs	콜로라도스프링스
 colobus	콜로부스
-colocynth--	콜로신스오이
 colloid	콜로이드
 colloid mill	콜로이드밀
 colloid ion	콜로이드이온
@@ -12975,7 +12951,7 @@ Kuropatkin	쿠로팟킨
 kurume	쿠루메
 Cournot	쿠르노
 Courbet	쿠르베
-curcuma--	쿠르쿠마종이
+curcuma	쿠르쿠마
 curcumine	쿠르쿠민
 Courtois	쿠르투아
 Courteline	쿠르틀린
@@ -13000,7 +12976,7 @@ Kuznetsov	쿠즈네초프
 Anatoli Vasilievich	아나톨리 바실리예비치
 Kuznets cycle	쿠즈네츠사이클
 Kuznitza	쿠즈니차
-kukui--	쿠쿠이나무
+kukui	쿠쿠이
 Kukryniksy	쿠크리닉시
 cookie	쿠키
 Coutaud	쿠토
@@ -13081,7 +13057,7 @@ cuticle	큐티클
 cutin	큐틴
 cupola	큐폴라
 Cupid	큐피드
-culex--	큘렉스모기
+culex	큘렉스
 Khnemu	크네무
 Queneau	크노
 Knudsen cell	크누센셀
@@ -13214,7 +13190,7 @@ Krupp	크루프
 croup	크루프
 crooksite	크룩사이트
 Crookes	크룩스
-Sir William	윌리엄
+William	윌리엄
 crinoline	크리놀린
 Cremer	크리머
 Crivelli	크리벨리
@@ -13466,7 +13442,7 @@ Kircher	키르허
 Kirchner	키르히너
 Kirchhoff	키르히호프
 Quirino	키리노
-Kiritimati-	키리티마티 섬
+Kiritimati	키리티마티
 Kyrillos	키릴로스
 Chimaera	키마이라
 chimera	키메라
@@ -13513,7 +13489,7 @@ key pad	키패드
 keeper	키퍼
 key puncher	키펀처
 key punch	키펀치
-keep	키프
+keep	킵
 Cyprianus	키프리아누스
 keeping	키핑
 keyhole neckline	키홀네크라인
@@ -13579,7 +13555,7 @@ Thanatos	타나토스
 tannin	타닌
 tarragon	타라곤
 tarantula	타란툴라
-taro--	타로감자
+taro	타로
 tar	타르
 tahr	타르
 Tarde	타르드
@@ -13630,7 +13606,7 @@ Titan	타이탄
 tie tack	타이택
 tight skirt	타이트스커트
 tight scrum	타이트스크럼
-tight--	타이트하다
+tight	타이트
 title	타이틀
 title match	타이틀매치
 title music	타이틀뮤직
@@ -13676,7 +13652,7 @@ tangent	탄젠트
 tangelo	탄젤로
 tantalite	탄탈라이트
 Tantalos	탄탈로스
-Talas--	탈라스싸움
+Talas	탈라스
 Talleyrand	탈레랑
 Thales	탈레스
 Talos	탈로스
@@ -13906,9 +13882,9 @@ tetanospasmin	테타노스파즈민
 tetanolysin	테타놀리진
 tetany	테타니
 tetradymite	테트라디마이트
-tetramethyl-	테트라메틸납
+tetramethyl	테트라메틸
 tetracycline	테트라시클린
-tetraethyl-	테트라에틸납
+tetraethyl	테트라에틸
 tetrazene	테트라젠
 tetracaine	테트라카인
 tetrachord	테트라코드
@@ -14353,7 +14329,7 @@ Walter Dorwin	월터 도윈
 TWI	티더블유아이
 tyrannosaurus	티라노사우루스
 tyramine	티라민
-Thira-	티라섬
+Thira	티라
 T-ray	티레이
 tyrosinase	티로시나아제
 tyrosine	티로신
@@ -14488,7 +14464,7 @@ Panova	파노바
 Vera Fyodorovna	베라 표도로브나
 Pagnol	파뇰
 Marcel	마르셀
-Panipat--	파니파트싸움
+Panipat	파니파트
 Paderewski	파데레프스키
 farthing	파딩
 paradise	파라다이스
@@ -14526,7 +14502,7 @@ Parini	파리니
 Paris-Dakar	파리다카르
 Paris list	파리리스트
 Paris	파리스
-pariah-	파리아개
+pariah	파리아
 Paris Commune	파리코뮌
 pamaquine	파마퀸
 Palmerston North	파머스턴노스
@@ -15036,7 +15012,7 @@ Petrarca	페트라르카
 Petronius Arbiter	페트로니우스
 petrolatum	페트롤레이텀
 Petrushka	페트루슈카
-Petri--	페트리접시
+Petri	페트리
 Petty	페티
 fetishism	페티시즘
 petticoat	페티코트
@@ -15088,7 +15064,7 @@ pelletizing	펠레타이징
 Pelopidas	펠로피다스
 Pelops	펠롭스
 Pelliot	펠리오
-pellion--	펠리온나무
+pellion	펠리온
 pelican	펠리컨
 Pelican Books	펠리컨북스
 Felipe	펠리페
@@ -15185,7 +15161,7 @@ Powys	포위스
 Feuerbach	포이어바흐
 Anselm	안젤름
 Feuchtwanger	포이히트방거
-Lion	리온
+Lion	라이온
 poinsettia	포인세티아
 pointer	포인터
 point	포인트
@@ -15349,7 +15325,7 @@ polio vaccine	폴리오백신
 polyolefin	폴리올레핀
 polyurethane	폴리우레탄
 polyisobutylene	폴리이소부틸렌
-polyisoprene--	폴리이소프렌고무
+polyisoprene	폴리이소프렌
 polygene	폴리진
 Poliziano	폴리치아노
 Polycarpos	폴리카르포스
@@ -15557,7 +15533,7 @@ preparation	프레퍼레이션
 prepolymer	프레폴리머
 French dressing	프렌치드레싱
 French Vermilion	프렌치버밀리언
-French--	프렌치소매
+French	프렌치
 French sleeve	프렌치슬리브
 French cancan	프렌치캉캉
 French toast	프렌치토스트
@@ -15761,7 +15737,7 @@ plastosome	플라스토좀
 plastic	플라스틱
 plastic boat	플라스틱보트
 plastic cement	플라스틱시멘트
-Plassey--	플라시싸움
+Plassey	플라시
 playa	플라야
 Flaherty	플라어티
 Robert Joseph	로버트 조지프
@@ -15783,7 +15759,7 @@ flying kick	플라잉킥
 flying fall	플라잉폴
 placode	플라코드
 platanus	플라타너스
-Plataeae--	플라타이아이싸움
+Plataeae	플라타이아이
 Platen	플라텐
 Platonov	플라토노프
 Platonism	플라토니즘
@@ -15865,7 +15841,7 @@ Plekhanov	플레하노프
 flexography	플렉소그래피
 flexible disk	플렉시블디스크
 plectrum	플렉트럼
-flow	플로
+flow	플로우
 flow diagram	플로다이어그램
 flora	플로라
 Flora	플로라
@@ -15928,7 +15904,7 @@ Phoenix	피닉스
 phoenix	피닉스
 feeder	피더
 PWR	피더블유아르
-Pydna--	피드나싸움
+Pydna	피드나
 feedback	피드백
 Fiedler	피들러
 PDU	피디유
@@ -16113,7 +16089,7 @@ Pitt	피트
 William	윌리엄
 feet	피트
 Petrie	피트리
-Sir William Matthew Flinders	윌리엄 매슈 플린더스
+William Matthew Flinders	윌리엄 매슈 플린더스
 PTA	피티에이
 Fittig	피티히
 pipa	피파
@@ -16404,7 +16380,7 @@ hot pants	핫팬츠
 hot flash	핫플래시
 hot plate	핫플레이트
 Haggard	해거드
-Sir Henry Rider	헨리 라이더
+Henry Rider	헨리 라이더
 harrow	해로
 Harrow	해로
 Harrisburg	해리스버그
@@ -16433,7 +16409,6 @@ hat trick	해트트릭
 happening	해프닝
 happy smoke	해피스모크
 happy end	해피엔드
-hack--	핵갈이
 hand	핸드
 hand drill	핸드드릴
 hand vice	핸드바이스
@@ -16456,7 +16431,7 @@ handhold	핸드홀드
 handle	핸들
 handling	핸들링
 handicap	핸디캡
-handsome--	핸섬하다
+handsome	핸섬
 Halley	핼리
 Halifax	핼리팩스
 ham	햄
@@ -16511,11 +16486,11 @@ Hungarian rhapsody	헝가리안 랩소디
 Hegel	헤겔
 Georg Wilhelm Friedrich	게오르크 빌헬름 프리드리히
 henna	헤나
-Hehner-	헤너값
-henequen-	헤네켄삼
+Hehner	헤너
+henequen	헤네켄
 Hedda Gabler	헤다 가블러
 header	헤더
-hedonic-	헤도닉샘
+hedonic	헤도닉
 head	헤드
 headgear	헤드기어
 head drum	헤드드럼
@@ -16555,7 +16530,7 @@ Herbart	헤르바르트
 Hertz	헤르츠
 Hertzsprung	헤르츠스프룽
 Hertz antenna	헤르츠안테나
-Hercules--	헤르쿨레스자리
+Hercules	헤르쿨레스
 Hertwig	헤르트비히
 herpes	헤르페스
 Heriotropine	헤리오트로핀
@@ -16904,7 +16879,7 @@ heath	히스
 His	히스
 histamine	히스타민
 hysteresis	히스테리시스
-hysteric--	히스테릭하다
+hysteric	히스테릭
 histogram	히스토그램
 histone	히스톤
 histidine	히스티딘
@@ -16916,7 +16891,7 @@ Hieronymus von Praha	히에로니무스
 hjelmite	히옐마이트
 hyoscyamine	히오시아민
 Hitchcock	히치콕
-Sir Alfred	앨프리드
+Alfred	앨프리드
 hitchhike	히치하이크
 hickory	히커리
 Hittite	히타이트
@@ -16962,15 +16937,14 @@ Himmler	힘러
 hipbone	힙본
 hiphop	힙합
 CIS	독립국가연합
-academic	아카데믹하다
-angel	에인절
+academic	아카데믹
 calendar	캘린더
 career	커리어
 copy	카피
 copywriter	카피라이터
 diet	다이어트
 directory	디렉터리
-dramatic	드라마틱하다
+dramatic	드라마틱
 festival	페스티벌
 forum	포럼
 hercules	허큘리스
@@ -16978,7 +16952,7 @@ hightech	하이테크
 hip	히프
 information	인포메이션
 intonation	인토네이션
-ironical	아이로니컬하다
+ironical	아이로니컬
 kit	키트
 Klaxon	클랙슨
 mania	마니아
@@ -17363,7 +17337,7 @@ Taleban	탈레반
 Ximenes	시메네스
 Bonds	본즈
 Barry	배리
-Curl Jr.	컬
+Curl	컬
 Robert	로버트
 Doherty	도허티
 Peter	피터
@@ -17434,8 +17408,8 @@ Stockton	스톡턴
 John	존
 Vanessa-Mae	바네사 메이
 Nahayan	나하얀
-William Jefferson	윌리엄 제퍼슨  클린턴
-Albert  Gore	앨버트  고어
+William Jefferson	윌리엄 제퍼슨
+Albert Gore	앨버트 고어
 Robert Rubin	로버트 루빈
 William Cohen	윌리엄 코언
 Alexis Herman	알렉시스 허먼
@@ -17459,7 +17433,7 @@ Cheik Sid Ahmed Ould	셰크 시드 아메드 울드
 Windpayade Raymond	왱파야드 레몽
 Alfredo Francisco Ungo	알프레도 프란시스코 웅고
 Mack Williams	맥 윌리엄스
-Dr. Horst Mezei	호르스트 메차이
+Horst Mezei	호르스트 메차이
 amorphous	어모퍼스
 aqualung	애퀄렁
 Deep blue	디프 블루
@@ -17674,11 +17648,10 @@ Ernesto Teodoro Moneta	에르네스토 테오도로 모네타
 Louis Renault	루이 르노
 Klas Pontus Arnoldson	클라스 폰투스 아르놀드손
 Fredrik Bajer	프레드리크 바예르
-Paul  D'Estournelles de Constant Baron Constant de Rebecque	폴 데스투르넬 드 콩스탕 바롱 콩스탕 드 레베크
 Auguste Beernaert	오귀스트 베르나르트
 Alfred Hermann Fried	알프레트 헤르만 프리트
-Elihu Root	엘리휴  루트
-Henri Lafontaine	앙리  라퐁텐
+Elihu Root	엘리휴 루트
+Henri Lafontaine	앙리 라퐁텐
 Wilson	윌슨
 Thomas Woodrow	토머스 우드로
 Karl Hjalmar Branting	칼 얄마르 브란팅
@@ -17692,9 +17665,9 @@ Quidde	크비데
 Ludwig	루트비히
 Frank Billings Kellogg	프랭크 빌링스 켈로그
 Jane Addams	제인 애덤스
-Nicholas  Butler	니컬러스  버틀러
+Nicholas Butler	니컬러스 버틀러
 Angell	에인절
-Sir Norman	노먼
+Norman	노먼
 Arthur Henderson	아서 헨더슨
 Carl von Ossietzky	카를 폰 오시에츠키
 Carlos Saavedra Lamas	카를로스 사베드라 라마스
@@ -17708,7 +17681,7 @@ Albert Schweitzer	알베르트 슈바이처
 GeorgeMarshall	조지마셜
 Lester Bowles Pearson	레스터 볼스 피어슨
 Georges Pire	조르주 피르
-Philip  Noel-Baker	필립  노엘베이커
+Philip Noel-Baker	필립 노엘베이커
 AlbertLuthuli	앨버트 루툴리
 Dag Hjalmar Agne Carl	다그 얄마르 앙네 칼
 Linus Carl Pauling	라이너스 칼 폴링
@@ -17722,7 +17695,7 @@ Henry Alfred	헨리 앨프리드
 Le Duc Tho	레 둑 토
 Mairead Corrigan-Maguire	메어리드 코리건매과이어
 Amnesty International	국제사면위원회
-Menachem  Begin	메나헴베긴
+Menachem Begin	메나헴베긴
 Anwar Sadat	안와르 사다트
 Mother Theresa of Calcutta	테레사 수녀
 Alva Myrdal	알바 뮈르달
@@ -17819,18 +17792,18 @@ Jewison	주이슨
 Norman	노먼
 Sully Prudhomme	쉴리 프뤼돔
 Theodor Mommsen	테오도어 몸젠
-Henryk  Sienkiewicz	헨리크  시엔키에비치
+Henryk Sienkiewicz	헨리크 시엔키에비치
 Carducci	카르두치
 Kipling	키플링
 Joseph Rudyard	조지프 러디어드
-Rudolf  Eucken	루돌프  오이켄
-Paul  von Heyse	파울  폰 하이제
-Maurice  Maeterlinck	모리스  마테를링크
-Gerhart  Hauptmann	게르하르트  하웁트만
+Rudolf Eucken	루돌프 오이켄
+Paul von Heyse	파울 폰 하이제
+Maurice Maeterlinck	모리스 마테를링크
+Gerhart Hauptmann	게르하르트 하웁트만
 Tagore	타고르
 Romain Rolland	로맹 롤랑
 Henrik Pontoppidan	헨리크 폰토피단
-Carl  Spitteler	카를  슈피텔러
+Carl Spitteler	카를 슈피텔러
 Knut Hamsun	크누트 함순
 France	프랑스
 Anatole	아나톨
@@ -17850,41 +17823,41 @@ Luigi Pirandello	루이지 피란델로
 O'Neill	오닐
 Eugene Gladstone	유진 글래드스턴
 Roger Martin du Gard	로제 마르탱 뒤 가르
-Pearl  Buck	펄  벅
+Pearl Buck	펄 벅
 Johannes Vilhelm Jensen	요하네스 빌헬름 옌센
 Gabriela Mistral	가브리엘라 미스트랄
 Hermann Hesse	헤르만 헤세
 Gide	지드
-Thomas Stearns Eliot	토머스  엘리엇
+Thomas Eliot	토머스 엘리엇
 Lagerkvist	라게르크비스트
 Churchill	처칠
-Sir Winston Leonard Spencer	윈스턴 레너드 스펜서
-Ernest  Hemingway	어니스트  헤밍웨이
+Winston Leonard Spencer	윈스턴 레너드 스펜서
+Ernest Hemingway	어니스트 헤밍웨이
 Albert Camus	알베르 카뮈
-Boris  Pasternak	보리스  파스테르나크
+Boris Pasternak	보리스 파스테르나크
 Salvatore Quasimodo	살바토레 콰시모도
 Saint-John Perse	생존 페르스
-John  Steinbeck	존  스타인벡
-Giorgos  Seferiades	이오르고스  세페리아데스
+John Steinbeck	존 스타인벡
+Giorgos Seferiades	이오르고스 세페리아데스
 Jean-Paul Sartre	장폴 사르트르
-Mikhail  Sholokhov	미하일  숄로호프
-Shmuel  Agnon	슈무엘  아그논
-Nelly  Sachs	넬리  작스
+Mikhail Sholokhov	미하일 숄로호프
+Shmuel Agnon	슈무엘 아그논
+Nelly Sachs	넬리 작스
 Miguel Angel Asturias	미겔 앙헬 아스투리아스
 Samuel Beckett	사뮈엘 베케트
-Pablo  Neruda	파블로  네루다
-Patrick  White	패트릭  화이트
-Eyvind  Jonson	에위빈드  욘손
-Harry  Martinson	하리  마르틴손
+Pablo Neruda	파블로 네루다
+Patrick White	패트릭 화이트
+Eyvind Jonson	에위빈드 욘손
+Harry Martinson	하리 마르틴손
 Eugenio Montale	에우제니오 몬탈레
 Saul Bellow	솔 벨로
 Vicente Aleixandre	비센테 알레익산드레
 Isaac Bashevis Singer	아이작 바셰비스 싱어
 Odysseus Elytis	오디세우스 엘리티스
 Elias Canetti	엘리아스 카네티
-William  Golding	윌리엄  골딩
+William Golding	윌리엄 골딩
 Jaroslav Seifert	야로슬라프 사이페르트
-Claude  Simon	클로드  시몽
+Claude Simon	클로드 시몽
 Wole Soyinka	월레 소잉카
 Joseph Brodsky	조지프 브로드스키
 Naguib Mahfouz	나기브 마푸즈
@@ -17915,9 +17888,9 @@ Lee	리
 Eizenstat	아이전스탯
 Stuart	스튜어트
 Attenborough	애튼버러
-Sir David Frederick	데이비드 프레더릭
+David Frederick	데이비드 프레더릭
 Attenborough	애튼버러
-Sir Richard Samuel	리처드 새뮤얼
+Richard Samuel	리처드 새뮤얼
 Aldrin	올드린
 Buzz	버즈
 Inkster	잉크스터
@@ -17964,90 +17937,90 @@ John James Rickard	존 제임스 리카드
 Hopkins	홉킨스
 Frederick Gowland	프레더릭 가울랜드
 Edgar Douglas Adrian	에드거 더글러스 에이드리언
-Sir Charles Scott Sherrington	찰스 스콧 셰링턴
+Charles Scott Sherrington	찰스 스콧 셰링턴
 Thomas Hunt Morgan	토머스 헌트 모건
-George  Whipple	조지  휘플
-George  Minot	조지  마이넛
-William  Murphy	윌리엄  머피
-Sir Henry  Dale	헨리  데일
-Edward  Doisy	에드워드  도이지
+George Whipple	조지 휘플
+George Minot	조지 마이넛
+William Murphy	윌리엄 머피
+Henry Dale	헨리 데일
+Edward Doisy	에드워드 도이지
 Erlanger	얼랭어
 Joseph	조지프
-Herbert  Gasser	허버트  개서
-Sir Alexander Fleming	알렉산더 플레밍
+Herbert Gasser	허버트 개서
+Alexander Fleming	알렉산더 플레밍
 Florey	플로리
-Sir Howard Walter	하워드 월터
+Howard Walter	하워드 월터
 Hermann Joseph Muller	허먼 조지프 멀러
-Carl  Cori	칼  코리
-Gerty  Cori	거티  코리
+Carl Cori	칼 코리
+Gerty Cori	거티 코리
 Philip Showalter Hench	필립 쇼월터 헨치
 Edward Calvin Kendall	에드워드 캘빈 켄들
 Max Theiler	막스 타일러
-Selman  Waksman	셀먼  왁스먼
-John  Enders	존  엔더스
+Selman Waksman	셀먼 왁스먼
+John Enders	존 엔더스
 Weller	웰러
 Thomas Huckle	토머스 허클
-Frederick  Robbins	프레더릭  로빈스
-Dickinson  Richards	디킨슨  리처즈
+Frederick Robbins	프레더릭 로빈스
+Dickinson Richards	디킨슨 리처즈
 George Wells Beadle	조지 웰스 비들
 Tatum	테이텀
 Edward Lawrie	에드워드 로리
 Joshua Lederberg	조슈아 레더버그
 Severo OchoaZ	세베로 오초아
 Arthur Kornberg	아서 콘버그
-Sir Peter  Medawar	피터  메더워
-Francis  Crick	프랜시스  크릭
-James  Watson	제임스  왓슨
-Maurice  Wilkins	모리스  윌킨스
+Peter Medawar	피터 메더워
+Francis Crick	프랜시스 크릭
+James Watson	제임스 왓슨
+Maurice Wilkins	모리스 윌킨스
 Eccles	에클스
-Sir John Carew	존 커루
+John Carew	존 커루
 Hodgkin	호지킨
-Sir Alan Lloyd	앨런 로이드
+Alan Lloyd	앨런 로이드
 Huxley	헉슬리
-Sir Andrew Fielding	앤드루 필딩
-Konrad  Bloch	콘라트  블로흐
+Andrew Fielding	앤드루 필딩
+Konrad Bloch	콘라트 블로흐
 Huggins	허긴스
 Charles Brenton	찰스 브렌턴
 Peyton Rous	페이턴 라우스
-Haldan  Hartline	홀던  하틀라인
+Haldan Hartline	홀던 하틀라인
 George Wald	조지 월드
-Robert  Holley	로버트  홀리
+Robert Holley	로버트 홀리
 Har Gobind Khorana	하르 고빈드 코라나
 Nirenberg	니런버그
 Marshall	마셜
 Alfred Day Hershey	앨프리드 데이 허시
 Julius Axelrod	줄리어스 액설로드
-Sir Bernard Katz	버나드 카츠
+Bernard Katz	버나드 카츠
 Earl Wilbur Sutherland	얼 윌버 서덜랜드
-Gerald  Edelman	제럴드  에덜먼
+Gerald Edelman	제럴드 에덜먼
 Rodney Robert Porter	로드니 로버트 포터
-George  Palade	조지  펄레이드
+George Palade	조지 펄레이드
 David Baltimore	데이비드 볼티모어
 Renato Dulbecco	레나토 둘베코
-Howard  Temin	하워드  테민
-Baruch  Blumberg	바루크  블럼버그
+Howard Temin	하워드 테민
+Baruch Blumberg	바루크 블럼버그
 Carleton Gajdusek	칼턴 가이듀섹
-Rosalyn  Yalow	로절린  얠로
-Roger  Guillemin	로제  기유맹
+Rosalyn Yalow	로절린 얠로
+Roger Guillemin	로제 기유맹
 Andrew Victor Schally	앤드루 빅터 샬리
 Daniel Nathans	대니얼 네이선스
-Hamilton  Smith	해밀턴  스미스
-Allan  Cormack	앨런  코맥
-Sir Godfrey  Hounsfield	고드프리  하운스필드
+Hamilton Smith	해밀턴 스미스
+Allan Cormack	앨런 코맥
+Godfrey Hounsfield	고드프리 하운스필드
 Baruj Benacerraf	바루 베나세라프
-George  Snell	조지  스넬
-Roger  Sperry	로저  스페리
-David  Hubel	데이비드  허블
-John  Vane	존  베인
+George Snell	조지 스넬
+Roger Sperry	로저 스페리
+David Hubel	데이비드 허블
+John Vane	존 베인
 Barbara McClintock	바버라 매클린톡
-Joseph  Goldstein	조지프  골드스타인
-Michael  Brown	마이클  브라운
+Joseph Goldstein	조지프 골드스타인
+Michael Brown	마이클 브라운
 Stanley Cohen	스탠리 코언
-Sir James  Black	제임스  블랙
+James Black	제임스 블랙
 Gertrude Elion	거트루드 엘리언
 George Hitchings	조지 히칭스
 Michael Bishop	마이클 비숍
-Harold  Varmus	해럴드  바머스
+Harold Varmus	해럴드 바머스
 Joseph Edward Murray	조지프 에드워드 머리
 Donnall Thomas	도널 토머스
 Edmond H. Fischer	에드먼드 피셔
@@ -18112,58 +18085,58 @@ Yuli Tamir	율리 타미르
 Amnon Lipkin-Shahak	암논 립킨샤하크
 Matan Vilnai	마탄 빌나이
 Haim Oron	하임 오론
-Sir William Ramsay	윌리엄 램지
-Theodore  Richards	시어도어  리처즈
+William Ramsay	윌리엄 램지
+Theodore Richards	시어도어 리처즈
 Frederick Soddy	프레더릭 소디
 Francis William Aston	프랜시스 윌리엄 애스턴
 Harden	하든
-Sir Arthur	아서
+Arthur	아서
 Irving Langmuir	어빙 랭뮤어
 Harold Clayton Urey	해럴드 클레이턴 유리
-James  Sumner	제임스  섬너
+James Sumner	제임스 섬너
 Northrop	노스럽
 John Howard	존 하워드
-Wendell  Stanley	웬들  스탠리
-Sir Robert Robinson	로버트 로빈슨
-William  Giauque	윌리엄  지오크
-Edwin  McMillan	에드윈  맥밀런
+Wendell Stanley	웬들 스탠리
+Robert Robinson	로버트 로빈슨
+William Giauque	윌리엄 지오크
+Edwin McMillan	에드윈 맥밀런
 Glenn Theodore Seaborg	글렌 시어도어 시보그
 Martin	마틴
 Archer John Porter	아처 존 포터
-Richard  Synge	리처드  싱
-Linus  Pauling	라이너스  폴링
+Richard Synge	리처드 싱
+Linus Pauling	라이너스 폴링
 Du Vigneaud	뒤비뇨
 Vincent	빈센트
-Sir Cyril Norman Hinshelwood	시릴 노먼 힌셜우드
+Cyril Norman Hinshelwood	시릴 노먼 힌셜우드
 Frederick Sanger	프레더릭 생어
-Willard  Libby	윌러드  리비
+Willard Libby	윌러드 리비
 Melvin Calvin	멜빈 캘빈
 Kendrew	켄드루
-Sir John Cowdery	존 카우더리
-Dorothy  Crowfoot Hodgkin	도러시  크로풋 호지킨
+John Cowdery	존 카우더리
+Dorothy Crowfoot Hodgkin	도러시 크로풋 호지킨
 Robert Burns Woodward	로버트 번스 우드워드
-Robert  Mulliken	로버트  멀리컨
-Ronald  Norrish	로널드  노리시
-Sir George Porter	조지 포터
-Sir Derek  Barton	데릭  바턴
+Robert Mulliken	로버트 멀리컨
+Ronald Norrish	로널드 노리시
+George Porter	조지 포터
+Derek Barton	데릭 바턴
 Gerhard Herzberg	게르하르트 헤르츠베르크
 Stanford Moore	스탠퍼드 무어
 William Howard Stein	윌리엄 하워드 스타인
 Anfinsen	안핀슨
 Christian Boehmer	크리스천 베이머
-Sir Geoffrey Wilkinson	제프리 윌킨슨
+Geoffrey Wilkinson	제프리 윌킨슨
 Paul John Flory	폴 존 플로리
-Sir John Warcup Cornforth	존 워컵 콘포스
-Lipscomb Jr.	립스컴
+John Warcup Cornforth	존 워컵 콘포스
+Lipscomb	립스컴
 William Nunn	윌리엄 넌
-Peter  Mitchell	피터  미첼
+Peter Mitchell	피터 미첼
 Paul Berg	폴 버그
 Walter Gilbert	월터 길버트
 Roald Hoffmann	로알드 호프만
-Sir Aaron Klug	에런 클루그
+Aaron Klug	에런 클루그
 Henry Taube	헨리 타우버
 Bruce Merrifield	브루스 메리필드
-Herbert  Hauptman	허버트  하우프트먼
+Herbert Hauptman	허버트 하우프트먼
 Jerome Karle	제롬 칼
 Dudley Robert Herschbach	더들리 로버트 허슈바크
 John C. Polanyi	존 폴라니
@@ -18220,29 +18193,29 @@ Ahmed Zewail	아메드 즈웨일
 Robert A. Mundell	로버트 먼델
 Joseph John Thomson	조지프 존 톰슨
 Albert Abraham Michelson	앨버트 에이브러햄 마이컬슨
-Sir William  Bragg	윌리엄  브래그
+William Bragg	윌리엄 브래그
 Bragg	브래그
-Sir  Lawrence	로런스
+Lawrence	로런스
 Charles Glover Barkla	찰스 글러버 바클라
-Robert  Millikan	로버트  밀리컨
-Arthur  Compton	아서  콤프턴
+Robert Millikan	로버트 밀리컨
+Arthur Compton	아서 콤프턴
 Charles Thomson Rees Wilson	찰스 톰슨 리스 윌슨
-Sir Owen Willans Richardson	오언 윌런스 리처드슨
+Owen Willans Richardson	오언 윌런스 리처드슨
 Paul Adrien Maurice Dirac	폴 에이드리언 모리스 디랙
-Sir James Chadwick	제임스 채드윅
-Carl  Anderson	칼  앤더슨
+James Chadwick	제임스 채드윅
+Carl Anderson	칼 앤더슨
 Clinton Joseph Davisson	클린턴 조지프 데이비슨
-Sir George  Thomson	조지  톰슨
+George Thomson	조지 톰슨
 Lawrence	로런스
 Ernest Orlando	어니스트 올랜도
-Isidor  Rabi	이지도어 라비
+Isidor Rabi	이지도어 라비
 Percy Williams Bridgman	퍼시 윌리엄스 브리지먼
 Appleton	애플턴
 Edward	에드워드
 Blackett	블래킷
 Patrick Maynard Stuart	패트릭 메이너드 스튜어트
-Cecil  Powell	세실  파월
-Sir John Douglas Cockcroft	존 더글러스 콕크로프트
+Cecil Powell	세실 파월
+John Douglas Cockcroft	존 더글러스 콕크로프트
 Ernest Thomas Sinton Walton	어니스트 토머스 신턴 월턴
 Purcell	퍼셀
 Edward Mills	에드워드 밀스
@@ -18261,8 +18234,8 @@ Clark	클라크
 Helen	헬렌
 Fiorina	피오리나
 Carleton Carly	칼턴 칼리
-The Turks and Caicos Islands	터크스 케이커스 제도
-Faeroe Islands	페로 제도
+The Turks and Caicos	터크스 케이커스
+Faeroe	페로
 McGuinness	맥기니스
 Martin	마틴
 echelon	에셜론
@@ -18286,11 +18259,11 @@ Hague	헤이그
 Robert Hofstadter	로버트 호프스태터
 Wigner	위그너
 Eugene Paul	유진 폴
-Charles  Townes	찰스  타운스
-Julian  Schwinger	줄리언  슈윙거
+Charles Townes	찰스 타운스
+Julian Schwinger	줄리언 슈윙거
 Feynman	파인먼
 Richard Phillips	리처드 필립스
-Hans  Bethe	한스 알브레히트 베테
+Hans Bethe	한스 알브레히트 베테
 Alvarez	앨버레즈
 Luis Walter	루이스 월터
 Murray Gell-Mann	머리 겔만
@@ -18307,26 +18280,26 @@ Philip Warren Anderson	필립 워런 앤더슨
 Mott	모트
 sir Nevill Francis	네빌 프랜시스
 John Hasbrouck Van Vleck	존 해즈브룩 밴블렉
-Arno  Penzias	아노  펜지어스
+Arno Penzias	아노 펜지어스
 Robert Woodrow Wilson	로버트 우드로 윌슨
 Steven Weinberg	스티븐 와인버그
-Sheldon  Glashow	셸던  글래쇼
-James  Cronin	제임스  크로닌
-Val  Fitch	밸  피치
+Sheldon Glashow	셸던 글래쇼
+James Cronin	제임스 크로닌
+Val Fitch	밸 피치
 Bloembergen	블룸베르헌
 Nicolaas	니콜라스
-Arthur  Schawlow	아서  숄로
+Arthur Schawlow	아서 숄로
 Kenneth Geddes Wilson	케네스 게디스 윌슨
 Subrahmanyan Chandrasekhar	수브라마니안 찬드라세카르
 William Alfred Fowler	윌리엄 앨프리드 파울러
-Leon  Lederman	리언  레더먼
+Leon Lederman	리언 레더먼
 Schwartz	슈워츠
 Melvin	멜빈
 Jack Steinberger	잭 스타인버거
 Hans Georg Dehmelt	한스 게오르크 데멜트
-Norman Foster Ramsey Jr	노먼 포스터 램지
+Norman Foster Ramsey	노먼 포스터 램지
 Jerome I. Friedman	제롬 프리드먼
-Henry  Kendall	헨리  켄들
+Henry Kendall	헨리 켄들
 Richard E. Taylor	리처드 테일러
 Joseph H. Taylor	조지프 테일러
 Russell A. Hulse	러셀 헐스
@@ -18426,7 +18399,7 @@ Paul Greengard	폴 그린가드
 Eric Kandel	에릭 캔들
 James J. Heckman	제임스 헤크먼
 Daniel L. McFadden	대니얼 맥패든
-Tony  Blair	토니 블레어
+Tony Blair	토니 블레어
 Ahern	어헌
 Bertie	버티
 Davenport	대븐포트
@@ -18588,7 +18561,7 @@ Miller	밀러
 Franklin	프랭클린
 Valois	밸루아
 Dame Ninette de	데임 니넷 디
-Baker Jr	베이커
+Baker	베이커
 Howard	하워드
 Bodman	보드먼
 Samuel Wright	새뮤얼 라이트
@@ -18719,7 +18692,7 @@ Voulkos	볼코스
 Peter	피터
 Bix	빅스
 Herbert	허버트
-Schlesinger Jr.	슐레진저
+Schlesinger	슐레진저
 Arthur Meier	아서 마이어
 Smith	스미스
 Christopher	크리스토퍼
@@ -19004,7 +18977,7 @@ Lisa Marie	리사 마리
 Fields prize	필즈 상
 Guggenheim	구겐하임
 Charles	찰스
-Davis Jr.	데이비스
+Davis	데이비스
 Raymond	레이먼드
 Richard	리처드
 Harris	해리스
@@ -19199,11 +19172,11 @@ Suzy	수지
 Perle	펄
 Richard	리처드
 Fuchs	푹스
-Sir Vivian	비비언
+Vivian	비비언
 Peck	펙
 Gregory	그레고리
 Hillary	힐러리
-Sir Edmund Percival	에드먼드 퍼시벌
+Edmund Percival	에드먼드 퍼시벌
 DeLay	딜레이
 Tom	톰
 Reiss	라이스
@@ -19291,7 +19264,6 @@ Berlitz	벌리츠
 Charles	찰스
 Shipman	시프먼
 Harold	해럴드
-Eminem	에미넘
 Kerry	케리
 John	존
 Frame	프레임
@@ -19536,7 +19508,7 @@ Johnson	존슨
 Stephen	스티븐
 Kerkorian	커코리언
 Kirk	커크
-Sir Clarke	클라크
+Clarke	클라크
 Arthur C	아서 찰스
 Clark	클라크
 Kenneth Bancroft	케네스 밴크로프트
@@ -19564,7 +19536,7 @@ Newby	뉴비
 Eric	에릭
 Doll	돌
 Richard	리처드
-Roberts Jr.	로버츠
+Roberts	로버츠
 John	존
 Robinson	로빈슨
 Smokey	스모키
@@ -19869,7 +19841,6 @@ bagel Yid. beygl	베이글
 IPCC	아이피시시
 Michelin	미슐랭
 Joseph F. Fil	필
-Jr	조지프
 Blincoe	블링코
 Adrian	에이드리언
 Farquhar	파쿼
@@ -20056,7 +20027,7 @@ Cole Tinkler	콜 팅클러
 Jeremy Brockie	제러미 브로키
 Simon Elliott	사이먼 엘리엇
 Cole Peverley	콜 페벌리
-Shaun van Rooyen	숀 밴  루옌
+Shaun van Rooyen	숀 밴 루옌
 Daniel Ellensohn	대니얼 엘런손
 Chris Killen	크리스 킬런
 Sam Messam	샘 메샘
@@ -20153,7 +20124,7 @@ Nicole Teter	니콜 티터
 Shannon Rowbury	섀넌 로버리
 Christin Wurth-Thomas	크리스틴 워스토머스
 Kara Goucher	캐라 가우처
-Jennifer Rhines	제니퍼  라인스
+Jennifer Rhines	제니퍼 라인스
 Flanagan	플래너건
 Shalane	섈레인
 Amy Begley	에이미 베글리
@@ -20357,7 +20328,7 @@ Goldie Sayers	골디 세이어스
 Sotherton	소서턴
 Kelly	켈리
 Julie Hollman	줄리 홀먼
-Emma Ania	에마  애니아
+Emma Ania	에마 애니아
 Montell Douglas	몬텔 더글러스
 Anyika Onuora	애니카 오누라
 Nicola Sanders	니컬라 샌더스
@@ -21254,7 +21225,7 @@ Jayson	제이슨
 Schierholtz	시어홀츠
 Nate	네이트
 Elvis Aaron Presley	엘비스 에런 프레슬리
-Edward  George	조지
+Edward George	조지
 Baron George	에드워드
 Rama	라마
 Hialeah	하이얼리아
@@ -21269,7 +21240,7 @@ Adirondack	애디론댁
 Adirondack	애디론댁
 Aitape	아이타페
 Ajo	아호
-Akimiski Island	애키미스키 섬
+Akimiski Island	애키미스키
 Aklavik	어클라빅
 Alabama	앨라배마
 Alamosa	앨러모사
@@ -21278,14 +21249,14 @@ Alaska	알래스카
 Alaska	알래스카
 Alaska	알래스카
 Albatross Point	앨버트로스 곶
-Albert Mount	앨버트 산
+Albert Mount	앨버트 마운트
 Alberta	앨버타
 Albertville	앨버트빌
 Alenuihaha	알레누이하하
 Aleutian	알류샨
 Alexander	알렉산더
-Alexander Island	알렉산더 섬
-Algonquin Park	앨곤퀸 공원
+Alexander Island	알렉산더
+Algonquin Park	앨곤퀸 파크
 Algonquin	앨곤퀸
 Aliquippa	앨리퀴파
 Allegheny	앨러게니
@@ -21294,7 +21265,7 @@ Allegheny	앨러게니
 Allen	앨런
 Allentown	앨런타운
 Alliance	얼라이언스
-Alpine	앨파인
+Alpine	알파인
 Alta	알타
 Alton	올턴
 Altoona	앨투나
@@ -21316,7 +21287,7 @@ Ankaratra	앙카라트라
 Ann	앤
 Annam	안남
 Antarctic Ocean	남극해
-Anticosti Island	앤티코스티 섬
+Anticosti	앤티코스티
 Antigua Guatemala	안티과 과테말라
 Anti-Lebanon	안티레바논
 Antilles	앤틸리스
@@ -21394,7 +21365,7 @@ Baie Comeau	베코모
 Bainbridge	베인브리지
 Bairnsdale	베언즈데일
 Baker	베이커
-Baker Island	베이커 섬
+Baker	베이커
 Bakersfield	베이커즈필드
 Bâle	발
 Baleares	발레아레스
@@ -21445,7 +21416,7 @@ Bechuanaland	베추아날란드
 Bedford	베드퍼드
 Bedford	베드퍼드
 Bedfordshire	베드퍼드셔
-Belcher Islands	벨처 제도
+Belcher	벨처
 Belgica	벨기카
 Bellenz	벨렌츠
 Bellingshausen Sea	벨링스하우젠 해
@@ -21468,7 +21439,7 @@ Bethsaida	벳새다
 Bettany	베다니
 Beverly Hills	베벌리힐스
 Biele Karpaty Mts	비엘레카르파티 산맥
-Big Bend National Park	빅벤드 공원
+Big Bend	빅벤드
 Big Spring	빅스프링
 Bigelow	비글로
 Bijeljina	비옐리나
@@ -21486,7 +21457,7 @@ Bitola	비톨라
 Bitterroot Mountains	비터루트 산맥
 Black Rock Desert	블랙록 사막
 Blanc	블랑
-Blanca Peak	블랭카 산
+Blanca	블랭카
 Bloomington	블루밍턴
 Blue Nile	청나일
 Blue Ridge	블루리지
@@ -21512,7 +21483,7 @@ Bougainville	부건빌
 Boulder	볼더
 Bouldler City	볼더시티
 Bournemouth	본머스
-Bouvet Island	부베 섬
+Bouvet	부베
 Bowman	보먼
 Bradford	브래드퍼드
 Brandon	브랜던
@@ -21533,7 +21504,7 @@ Brownsville	브라운즈빌
 Bruce	브루스
 Brunswick	브런즈윅
 Bruxelles	브뤼셀
-Bryce Canyon National Park	브라이스캐니언 공원
+Bryce Canyon National	브라이스캐니언
 Buchanan	뷰캐넌
 Buckinghamshire	버킹엄셔
 Bucovina	부코비나
@@ -21570,11 +21541,11 @@ Cambrian Mountains	캄브리아 산맥
 Cambridge	케임브리지
 Cameroon	카메룬
 Camp David	캠프데이비드
-Campbell Island	캠벨 섬
+Campbell	캠벨
 Campo Formio	캄포포르미오
 Cana	가나
 Canaan	가나안
-Canadian River	캐나디안 강
+Canadian River	캐나디안 리버
 Canadian Shield	캐나다 순상지
 Canary	카나리
 Candia	칸디아
@@ -21629,7 +21600,7 @@ Champlain	섐플레인
 Channel	채널
 Channel-Port aux Basques	채널포트오바스크
 Chappaquiddick	채퍼퀴딕
-Charcot Island	샤르코 섬
+Charcot	샤르코
 Charles	찰스
 Charleston	찰스턴
 Charlotte	샬럿
@@ -21663,7 +21634,7 @@ Clifden	클리프덴
 Clinton	클린턴
 Clipperton	클리퍼턴
 Cloncurry	클론커리
-Cloud Peak	클라우드 산
+Cloud	클라우드
 Clover	클로버
 Clovis	클로비스
 Clwyd	클루이드
@@ -21672,7 +21643,7 @@ Cnidos	크니도스
 Cnossos	크노소스
 Coalbrookdale	콜브룩데일
 Coast	코스트
-Coats Island	코츠 섬
+Coats	코츠
 Coats Land	코츠랜드
 Cobalt	코발트
 Cobar	코바
@@ -21717,7 +21688,7 @@ Cornwall and Isles of Scilly	콘월 아일스오브실리
 Cornwall	콘월
 Corse	코르스
 Corsica	코르시카
-Cosmoledo Islands	코스몰레도 제도
+Cosmoledo	코스몰레도
 Cotulla	커툴라
 Council Bluffs	카운실블러프스
 Courtenay	코트니
@@ -21730,7 +21701,7 @@ Creta	크레타
 Crete	그레데
 Crimea	크리미아
 Crooked	크루커드
-Crozet Islands	크로제 제도
+Crozet	크로제
 Cuba	쿠바
 Cuernavaca	쿠에르나바카
 Culver City	컬버시티
@@ -21804,7 +21775,7 @@ Dunbar	던바
 Dungannon	던개넌
 Dyfed	디버드
 Eagle Pass	이글패스
-East River	이스트 강
+East	이스트
 East Sussex	이스트서식스
 Eastbourne	이스트본
 Eastmain	이스트메인
@@ -21815,7 +21786,7 @@ Edwards Plateau	에드워즈 고원
 Egmont	에그몬트
 El Dorado	엘더레이도
 Elbert	엘버트
-Elk Island National Park	엘크아일랜드 공원
+Elk Island National Park	엘크아일랜드 파크
 Elko	엘코
 Ellesmere	엘즈미어
 Ellice	엘리스
@@ -21869,14 +21840,14 @@ Forth	포스
 Forth	포스
 Franklin	프랭클린
 Fraser	프레이저
-Fremont Peak	프리몬트 산
+Fremont	프리몬트
 Fremont	프리몬트
 Fria	프리아
 Frobisher Bay	프로비셔베이
 Frome	프롬
 Frundy	펀디
 Fundy	펀디
-Furneaux Islands	퍼노 제도
+Furneaux	퍼노
 Gadsden	개즈든
 Gagnon	가뇽
 Gainesville	게인즈빌
@@ -21890,7 +21861,7 @@ Gao	가오
 Garden City	가든시티
 Gascoyne	개스코인
 Geelong	절롱
-George River	조지 강
+George	조지
 George Washington	조지 워싱턴
 Geraldton	제럴턴
 Gibson Des.	깁슨
@@ -21905,7 +21876,7 @@ Gogebic	고기빅
 Golden Gate	골든게이트
 Golden Gate	골든게이트
 Goldsboro	골즈버러
-Gough Island	고프 섬
+Gough	고프
 Grafton	그래프턴
 Grafton	그래프턴
 Graham	그레이엄
@@ -21915,13 +21886,13 @@ Grampians	그램피언스
 Grand Cayman	그랜드케이맨
 Grand Island	그랜드아일랜드
 Grand Junction	그랜드정크션
-Grand Teton National Park	그랜드티턴 공원
+Grand Teton National	그랜드티턴
 Granger	그레인저
 Grants Pass	그랜츠패스
 Grants	그랜츠
 Great Australia	그레이트오스트레일리아
 Great Australian Bight	그레이트오스트레일리아
-Great Barrier Island	그레이트배리어 섬
+Great Barrier	그레이트배리어
 Great Bear	그레이트베어
 Great Dividing	그레이트디바이딩
 Great Salt	그레이트솔트
@@ -21929,7 +21900,7 @@ Great Salt Lake Desert	그레이트솔트레이크 사막
 Great Sandy	그레이트샌디
 Great Slave	그레이트슬레이브
 Great Smoky	그레이트스모키
-Great Smoky Mountains National Park	그레이트스모키마운틴스 공원
+Great Smoky Mountains	그레이트스모키마운틴스
 Great Victoria	그레이트빅토리아
 Great Yarmouth	그레이트야머스
 Green River	그린리버
@@ -21954,7 +21925,7 @@ Hanalei	하날레이
 Hanna	해나
 Hardin	하딘
 Harlech	할렉
-Harney Peak	하니 산
+Harney	하니
 Harvey	하비
 Harwich	하리치
 Hastings	헤이스팅스
@@ -21996,7 +21967,6 @@ Inglewood	잉글우드
 Inverness	인버네스
 Ireland	아일랜드
 Irish Sea	아이리시 해
-Iron Mountain	아이언 산
 Iron Mountain	아이언마운틴
 Ironknob	아이언노프
 Irvine	어바인
@@ -22004,8 +21974,8 @@ Irvine	어빈
 Isle Royale	아일로열
 Jaluit	잴루잇
 James	제임스
-James River	제임스 강
-Jarvis Island	자르비스 섬
+James	제임스
+Jarvis	자르비스
 Jasper	재스퍼
 Jersey	저지
 Johnston	존스턴
@@ -22045,15 +22015,14 @@ Kettle	케틀
 Kewanee	키와니
 Key Largo	키라고
 Keywest	키웨스트
-Eni  Faleomavaega	팔레오마바에가
-Jr.	에니
+Faleomavaega	팔레오마바에가
 Kilauea	킬라우에아
 Killarney	킬라니
 Pataki	퍼타키
 George	조지
 King	킹
 Kingman	킹먼
-Kings Canyon National Park	킹스캐니언 공원
+Kings Canyon	킹스캐니언
 Kingsville	킹즈빌
 Kiritimati	키리티마티
 Kirkcaldy	커콜디
@@ -22097,7 +22066,7 @@ Lomond	로몬드
 London	런던
 Long	롱
 Long Island City	롱아일랜드시티
-Longs Peak	롱스 산
+Longs	롱스
 Longview	롱뷰
 Lorain	로레인
 Lostwithiel	로스트위시얼
@@ -22115,20 +22084,20 @@ MacKenzie	매켄지
 Mackinaw	매키노
 Mackinley	매킨리
 Macon	메이컨
-Macquarie Island	매쿼리 섬
+Macquarie	매쿼리
 Madison	매디슨
 Magherafelt	마러펠트
 Maine	메인
-Mammoth Cave National Park	매머드 동굴 공원
+Mammoth Cave	매머드 동굴
 Manchester Ship	맨체스터십
 Mandan	맨던
 Manicouagan	매니쿼건
 Manihiki	마니히키
 Manistee	매니스티
-Manitoulin Island	매니툴린 섬
+Manitoulin	매니툴린
 Manitowoc	매니터웍
 Mankato	맨케이토
-Mansel Island	맨슬 섬
+Mansel	맨슬
 Mansfield	맨스필드
 Manukau	마누카우
 Robert Sargent Shriver	슈라이버
@@ -22175,7 +22144,7 @@ Adrian	에이드리언
 Negroponte	네그로폰테
 John	존
 Milford	밀퍼드
-Mingan Islands	밍건 제도
+Mingan	밍건
 Minot	마이놋
 Miquelon	미클롱
 Mississippi	미시시피
@@ -22197,7 +22166,7 @@ Moline	몰린
 Molokai	몰로카이
 Moncton	멍크턴
 Monroe	먼로
-Mont Tremblant Park	몽트랑블랑 공원
+Mont Tremblant	몽트랑블랑
 Monterey	몬터레이
 Monticello	몬티셀로
 Moorhead	무어헤드
@@ -22245,7 +22214,6 @@ Norseman	노스먼
 North Battleford	노스배틀포드
 North Bay	노스베이
 North Down	노스다운
-North Island	북섬
 North Platte	노스플랫
 North Slope	노스슬로프
 North West Cape	노스웨스트 곶
@@ -22313,7 +22281,7 @@ Sammy	새미
 Ontario	온타리오
 Oodnadatta	우드나다타
 Orange	오렌지
-Ord River	오드 강
+Ord	오드
 Autry	오트리
 Gene	진
 Ordway	오드웨이
@@ -22326,7 +22294,7 @@ Dodsworth	도즈워스
 John	존
 Oshawa	오샤와
 Ostpreussen	동프로이센
-Ottawa River	오타와 강
+Ottawa	오타와
 Ovalau	오발라우
 Owen Sound	오언사운드
 Owosso	오워소
@@ -22335,11 +22303,10 @@ Ozark Plateau	오자크 고원
 Paducah	퍼듀카
 McCartney	매카트니
 Paul	폴
-Marion  Barry	배리
-Jr.	매리언
+Marion Barry	배리
 Palestine	팰러스틴
 Palmyra	팔미라
-Palomar Mount	팔로마 산
+Palomar	팔로마
 Giddens	기든스
 Anthony	앤서니
 Joyner	조이너
@@ -22357,7 +22324,7 @@ Dame Daphne	데임 대프니
 du Maurier	듀 모리에
 George Louis Palmella Busson	조지 루이스 팰멜라 뷰손
 du Maurier	듀 모리에
-Sir Gerald	서 제럴드
+Gerald	서 제럴드
 Hampton	햄프턴
 Lionel Leo	라이어널 리오
 Henney	헤니
@@ -22423,7 +22390,7 @@ Pine	파인
 Piper	파이퍼
 Plainfield	플레인필드
 Plantation	플랜테이션
-Platt National Park	플랫 공원
+Platt	플랫
 Platte	플랫
 Plenty	플렌티
 Plymouth	플리머스
@@ -22451,14 +22418,14 @@ Powys	포이스
 Prescott	프레스콧
 Preston	프레스턴
 Pribilof	프리빌로프
-Price Peak	프라이스 산
+Price	프라이스
 Prince Albert	프린스앨버트
-Prince Charles Island	프린스찰스 섬
+Prince Charles	프린스찰스
 Prince Edward	프린스에드워드
 Prince George	프린스조지
 Prince of Wales	프린스오브웨일스
 Prince of Wales	프린스오프웨일스
-Prince Patrick Island	프린스패트릭 섬
+Prince Patrick	프린스패트릭
 Provo	프로보
 Pueblo	푸에블로
 Burke	버크
@@ -22492,7 +22459,7 @@ Repulse Bay	리펄스 만
 Reveille Range	레벌리 산맥
 Revelstoke	레블스토크
 Richland	리칠랜드
-Riding Mountain National Park	라이딩마운틴 공원
+Riding Mountain	라이딩마운틴
 Rigolet	리걸렛
 Rimouski	리무스키
 Roanoke	로어노크
@@ -22505,15 +22472,13 @@ Rockhampton	록햄프턴
 Rocksprings	록스프링스
 Rockwell	록웰
 Roebuck Bay	로벅 만
-Roosevelt Island	루스벨트 섬
+Roosevelt	루스벨트
 Roseburg	로즈버그
-Ross	로스
-Ross	로스
 Ross	로스
 Roswell	로즈웰
 Rugby	럭비
 Rupert	루퍼트
-Sable Island	세이블 섬
+Sable	세이블
 Sable	세이블
 Sacramento	새크라멘토
 Saginaw	새기노
@@ -22570,7 +22535,6 @@ South Bend	사우스벤드
 South Downs	사우스다운스
 South Gate	사우스게이트
 South Glamorgan	사우스글러모건
-South Island	남섬
 South Shields	사우스실즈
 South Yorkshire	사우스요크셔
 Spartanburg	스파튼버그
@@ -22583,7 +22547,7 @@ Staples	스테이플스
 Sterling	스털링
 Stevenage	스테버니지
 Stewart	스튜어트
-Stewart Island	스튜어트 섬
+Stewart	스튜어트
 Stockton	스톡턴
 Stoke on Trent	스토크온트렌트
 Stoke	스토크
@@ -22653,13 +22617,12 @@ Union of Soviet Socialist Republics	소련
 United Kingdom of Great Britain and Northern Ireland	영국
 Uvalde	유밸디
 Thompson	톰프슨
-Three Kings Islands	스리킹스 제도
+Three Kings	스리킹스
 Three Mile	스리마일
 Thunder Bay	선더베이
 Thursday	목요
 Thurso	서소
 Thurston	서스턴
-Timaru	티머루
 Timmins	티민스
 Tomah	토마
 Tonopah	토너파
@@ -22670,14 +22633,14 @@ Torrens	토런스
 Torres	토러스
 Trafalgar	트래펄가
 Trail	트레일
-Trapper Peak	트래퍼 산
+Trapper	트래퍼
 Trinidad	트리니대드
 Tumut	투멋
 Tuscaloosa	터스컬루사
 Tuscumbia	터스컴비아
 Tweed	트위드
 Tyne and Wear	타인 위어
-Tyne River	타인 강
+Tyne	타인
 Valdez	밸디즈
 Van Horn	밴혼
 Vancouver	밴쿠버
@@ -22695,7 +22658,6 @@ Vinson	빈슨
 Vinson Massif	빈슨 산괴
 Virden	버든
 Vityaz	비티아즈
-Vityaz St.	비티아즈
 Wabana	워배나
 Waco	웨이코
 Wager Bay	웨이저 만
@@ -22745,7 +22707,7 @@ Willsboro	윌즈버러
 Wilson	윌슨
 Wiltshire	윌트셔
 Wimmera	위머라
-Wind Cave National Park	윈드 동굴 공원
+Wind	윈드
 Windsor	윈저
 Winisk	위니스크
 Winnipeg	위니펙
@@ -22754,7 +22716,7 @@ Winona	위노나
 Winslow	윈즐로
 Winton	윈턴
 Wollongong	울런공
-Wood Buffalo Park	우드버펄로 공원
+Wood Buffalo	우드버펄로
 Worcester	우스터
 Worthington	워딩턴
 Wrangell	랭겔
@@ -23067,7 +23029,6 @@ Shawn	숀
 Feinberg	파인버그
 Kenneth	케네스
 Gerstner	거스트너
-Jr.	루이스
 Green	그린
 Stephen	스티븐
 Grubel	그루벨
@@ -23313,7 +23274,7 @@ Anders Jonas	안데르스 요나스
 Arrow	애로
 Kenneth Joseph	케네스 조지프
 Barry	배리
-Sir Charles	찰스
+Charles	찰스
 Beatty	비티
 Warren	워런
 Berger	버거
@@ -23443,15 +23404,15 @@ David Wark	데이비드 워크
 Basedow	바제도
 Karl Adolf von	카를 아돌프 폰
 Cooper	쿠퍼
-Sir Astley Paston	애스틀리 패스턴
+Astley Paston	애스틀리 패스턴
 Huxley	헉슬리
-Sir Julian Sorell	줄리언 소렐
+Julian Sorell	줄리언 소렐
 Hart	하트
-Sir Robert	로버트
+Robert	로버트
 Coke	쿡
-Sir Edward	에드워드
+Edward	에드워드
 Hill	힐
-Sir Rowland	롤런드
+Rowland	롤런드
 Adams	애덤스
 Ansel	앤설
 Le Nain	르냉
@@ -23479,7 +23440,7 @@ Gary	게리
 Osbourne	오즈번
 Ozzy	오지
 Fry	프라이
-Sir Graham	그레이엄
+Graham	그레이엄
 Hochberg	혹버그
 Fred	프레드
 Diller	딜러
@@ -23893,7 +23854,6 @@ Media	미디어
 Stronghurst	스트롱허스트
 Raritan	래리턴
 Coal Valley	콜밸리
-Alpha	앨파
 Andover	앤도버
 Annawan	애나완
 Atkinson	앳킨슨
@@ -24312,7 +24272,6 @@ Nashville	내슈빌
 Wamac	와맥
 Hoyleton	호일턴
 Wayne City	웨인시티
-South Beloit	사우스벌로이트
 Shirland	셜랜드
 Seward	수어드
 Cambria	케임브리아
@@ -24408,7 +24367,7 @@ John	존
 Trump	트럼프
 Donald	도널드
 Bell	벨
-Robert  Jr.	로버트
+Robert	로버트
 Booker	부커
 Cory	코리
 Ford	포드
@@ -24452,9 +24411,9 @@ Kirsten	커스틴
 Ronan	로넌
 Saoirse	세어셔
 Mateparae	매터퍼라이
-Sir Jeremiah	제러마이아
+Jeremiah	제러마이아
 Satyanand	사티아난드
-Sir Anand	아난드
+Anand	아난드
 Eagleburger	이글버거
 Lawrence	로런스
 Chan	챈
@@ -24477,7 +24436,7 @@ Ed	에드
 Ward	워드
 Micky	미키
 Jones	존스
-Quincy  Jr.	퀸시
+Quincy	퀸시
 Moneygall	머니골
 Offaly	오펄리
 Tipperary	티퍼레리
@@ -24747,7 +24706,6 @@ Munford	먼퍼드
 Mignon	미뇬
 Bon Air	본에어
 Vincent	빈센트
-Alpine	앨파인
 Waldo	월도
 Childersburg	칠더스버그
 Talladega	탤러디가
@@ -25894,7 +25852,7 @@ Webb	웨브
 Wozniak	워즈니악
 Steve	스티브
 Kardashian	카다시안
-Robert  Sr.	로버트
+Robert	로버트
 Kardashian	카다시안
 Kimberly	킴벌리
 Kaletsky	칼레츠키
@@ -26022,7 +25980,6 @@ Armstrong	암스트롱
 Argyle	아가일
 Appleton	애플턴
 Dakota	다코타
-Alpha	앨파
 Arcola	아콜라
 Altamont	앨터몬트
 Centralia	센트레일리아
@@ -26043,9 +26000,7 @@ Aurora	오로라
 Richmond	리치먼드
 Ashland	애슐랜드
 Burlington	벌링턴
-Alpha	앨파
 Butler	버틀러
-Alpha	앨파
 Adrian	에이드리언
 Adrian	에이드리언
 Ivanhoe	아이반호
@@ -30465,7 +30420,6 @@ paddle shift	패들 시프트
 flash mob	플래시 몹
 featuring	피처링
 picture tube	픽처 튜브
-Popeye--	뽀빠이바지
 setup man	셋업맨
 Buchholz	벅홀츠
 Todd	토드
@@ -30662,7 +30616,7 @@ Zeitlin	자이틀린
 Benh	벤
 Zumwalt	줌월트
 James	제임스
-Creative Commons License	크리에이티브 코먼스 라이선스
+Creative Commons License	크리에이티브 커먼즈 라이선스
 Torre	토리
 Joe	조
 Bowa	보와
@@ -31252,7 +31206,7 @@ Dan	댄
 Goldschmidt	골드슈밋
 Paul	폴
 Dunford	던퍼드
-Joseph F. Jr.	조지프
+Joseph	조지프
 Rebhorn	레브혼
 James	제임스
 Psaki	사키
@@ -31813,7 +31767,7 @@ Suzy	수지
 Brown	브라운
 Sherrod	셰러드
 Sorrell	소럴
-Sir Martin	마틴
+Martin	마틴
 Echols	에컬스
 Dondre	돈드레
 Ewan	유언
@@ -31918,7 +31872,7 @@ Joseph	조지프
 Mollenkopf	몰런코프
 Steven	스티븐
 Smith	스미스
-Jada  Pinkett	제이다  핑킷
+Jada Pinkett	제이다 핑킷
 Sharp	샤프
 Isadore	이저도어
 Klopp	클롭

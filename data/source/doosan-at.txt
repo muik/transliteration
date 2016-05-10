@@ -1,0 +1,105 @@
+# 두산백과 - 오스트레일리아 지명
+# http://terms.naver.com/list.nhn?cid=40942&categoryId=34227
+Australia	오스트레일리아
+Sydney	시드니
+Melbourne	멜버른
+Brisbane	브리즈번
+Canberra	캔버라
+Great Ocean Road	그레이트 오션 로드
+Perth	퍼스
+Gold Coast	골드코스트
+Adelaide	애들레이드
+Queensland	퀸즐랜드
+New South Wales	뉴사우스웨일스
+Wollongong	울런공
+Port Stephens	포트스티븐스
+Cairns	케언스
+Alice Springs	앨리스스프링스
+Hamilton Island	해밀턴 아일랜드
+Toowoomba	터움바
+Victoria	빅토리아
+Hobart	호바트
+Newcastle	뉴캐슬
+Bundaberg	번더버그
+Port Jackson	포트잭슨
+Port Arthur	포트아서
+Fremantle	프리맨틀
+Western Australia	웨스턴오스트레일리아
+Darwin	다윈
+Coober Pedy	쿠버페디
+Townsville	타운즈빌
+Gladstone	글래드스톤
+Bunbury	번버리
+South Australia	사우스오스트레일리아
+Mackay	매카이
+Kiama	키아마
+Port Macquarie	포트 맥쿼리
+Tamworth	탬워스
+Port Hedland	포트헤들랜드
+Rockhampton	록햄프턴
+Blacktown	블랙타운
+Port Douglas	포트 더글러스
+Broken Hill	브로컨힐
+Noosa	누사
+Hunter valley	헌터밸리
+Port Lincoln	포트링컨
+Albany	올버니
+Port Augusta	포트오거스타
+Wyndham	윈덤
+Hervey bay	허비 베이
+Parramatta	패러매타
+Arnhem Land	아넘랜드
+Mareeba	마리바
+Sale	세일
+Tangalooma	탕갈루마
+Geelong	절롱
+Armidale	아미데일
+Penrith	펜리스
+Wagga Wagga	와가와가
+Darling Downs	달링다운스
+Launceston	론서스턴
+Cloncurry	클론커리
+Fairfield	페어필드
+City of Hawkesbury	혹스베리
+Pilbara	필바라
+Orange	오렌지
+Broome	브룸
+Tully	툴리
+Dubbo	더보
+Ballarat	밸러랫
+Rainbow Beach	레인보우 비치
+Cooktown	쿡타운
+Grafton	그래프턴
+Bendigo	벤디고
+Gympie	짐피
+Mount Gambier	마운트갬비어
+Mandurah	맨두라
+Boulia	보울리아
+Northam	노샘
+Mount Morgan	마운트 모건
+Barrow	배로우
+Mount Isa	마운트아이자
+Bathurst	배서스트
+Mooloolaba	물루라바
+Port Kembla	포트켐블러
+Goulburn	골번
+Albury	앨버리
+Devonport	데번포트
+Maryborough	메리버러
+Gippsland	깁슬랜드
+Narrandera	나란데라
+Port Adelaide	포트애들레이드
+Maryborough	메리버러
+Bairnsdale	베언즈데일
+Coolgardie	쿨가디
+Lithgow	리스고
+Meekatharra	메카타라
+Whyalla	화이앨라
+Port Pirie	포트피리
+Maitland	메이틀랜드
+Muswellbrook	머스웰브룩
+Murwillumbah	머윌룸바
+Hamilton	해밀턴
+Warwick	워릭
+Moura	모우라
+Goondiwindi	군두윈디

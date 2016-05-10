@@ -1,0 +1,178 @@
+# 두산백과 - 뉴질랜드 지명
+# http://terms.naver.com/list.nhn?cid=40942&categoryId=34228
+Auckland	오클랜드
+Wellington	웰링턴
+The Octagon	옥타곤
+Christchurch	크라이스트처치
+Tauranga	타우랑가
+Wellington	웰링턴
+Taupo	타우포
+Dunedin	더니든
+North Shore	노스쇼
+Collingwood	콜링우드
+Waikato	와이카토
+West Coast	웨스트코스트
+Napier	네이피어
+Marlborough	말버러
+Piha	피하
+Auckland	오클랜드
+Bulls	불스
+Palmerston North	파머스턴노스
+Levin	르빈
+Alexandra	알렉산드라
+Waitomo District	와이토모
+Hawke's Bay	호크스베이
+Canterbury	캔터베리
+Coromandel	코로만델
+Lake Tekapo	레이크 테카포
+Northland	노스랜드
+Mount Maunganui	마운트마웅가누이
+Katikati	카티카티
+Sumner	섬너
+Matamata	마타마타
+Otago	오타고
+Brunner	브루너
+Gisborne	기즈번
+Paeroa	파에로아
+Wanaka	와나카
+New Plymouth	뉴플리머스
+Kerikeri	케리케리
+Southland	사우스랜드
+Manukau	마누카우
+Thames	템스
+Waitakere	와이타케레
+Whangarei	황거레이
+Rolleston	롤스턴
+Opotiki	오포티키
+Bay of Plenty	베이오브플렌티
+Greymouth	그레이마우스
+Baldwin Street	볼드윈스트리트
+Nelson	넬슨
+Invercargill	인버카길
+Wanganui	왕거누이
+Taranaki	타라나키
+Manawatu - Wanganui	마너와투-왕거누이
+Lyttelton	리틀턴
+Hokitika	호키티카
+Orewa	오레와
+Tikitiki	티키티키
+Inglewood	잉글우드
+Te Araroa	테아라로아
+Kumeu	쿠메우
+Kaikoura	카이코우라
+Waitangi	와이탕기
+Blenheim	블레넘
+Twizel	트와이젤
+Oamaru	오아마루
+Omarama	오마라마
+Milton	밀턴
+Ross	로스
+Clyde	클라이드
+Hanmer Springs	핸머스프링스
+Westport	웨스트포트
+Picton	픽턴
+Moana	모아나
+Te Puke	테푸케
+Raglan	래글런
+Motueka	모투에카
+Nelson	넬슨
+Haast	하스트
+Te Awamutu	테아와무투
+Masterton	매스터턴
+Tokoroa	토코로아
+Helensville	헬렌스빌
+Ngongotaha	농고타하
+Methven	메스번
+Okaihau	오카이하우
+Waitara	와이타라
+Rangiora	랑기오라
+Kaikohe	카이코헤
+Ranfurly	랜펄리
+Thorndon	손던
+Kilmog	킬모그
+Russell	러셀
+Timaru	티마루
+Akaroa	아카로아
+Hamilton	해밀턴
+Paihia	파이히아
+Ruapehu	루아페후
+Oriental Bay	오리엔탈 베이
+Taumata Hill	타우마타힐
+Gore	고어
+Bluff	블러프
+Hastings	헤이스팅스
+Wairarapa	와이라라파
+Te Aroha	테아로하
+Kawakawa	카와카와
+Moray Place	머리플레이스
+Gisborne	기즈번
+Pukekohe	푸케코헤
+Western Springs	웨스턴스프링스
+Ashburton	애슈버턴
+The Catlins	캐틀린스
+Martinborough	마틴버러
+Takaka	타카카
+Cuba Street	쿠바스트리트
+Warkworth	워크워스
+Whakatane	화카타네
+Ilam	아일럼
+Wairoa	와이로아
+Kaitaia	카이타이아
+Riccarton	리카턴
+Waihi	와이히
+Stockton	스톡턴
+Turuturu-mokai Pa	투루투루 모카이 파
+Huntly	헌틀리
+Morrinsville	모린스빌
+King Country	킹컨트리
+Castlepoint	캐슬포인트
+St. Clair Beach	세인트클레어비치
+Stratford	스트랫퍼드
+Feilding	페일딩
+Porirua	포리루아
+Murchison	머치슨
+Dargaville	다가빌
+Putaruru	푸타루루
+Dannevirke	데니버크
+Hari Hari	하리하리
+Featherston	페더스톤
+Kawerau	카웨라우
+Havelock North	해블록노스
+Richmond	리치먼드
+Greytown	그레이타운
+Hawera	하웨라
+Balclutha	밸클러서
+Eltham	엘섬
+Waiuku	와이우쿠
+Otira	오티라
+Mosgiel	모스길
+Karitane	카리타네
+Upper Hutt	어퍼허트
+Roxburgh	록스버그
+Foxton	폭스턴
+Petone	페토니
+Manaia	마나이아
+Pahiatua	파히아투아
+Strath-Taieri	스트래스-타이에리
+Pirongia	피롱기아
+Wellsford	웰스퍼드
+Tirau	티라우
+Marton	마턴
+Puniho	푸니호
+Saint Arnaud	세인트 아노드
+Waimarama	와이마라마
+Karamea	카라메아
+Kohukohu	코후코후
+Ruatoria	루아토리아
+Cambridge	케임브리지
+Opunake	오푸나케
+Mapua	마푸아
+Ruapuke	루아푸케
+Taihape	타이하페
+Waimate	와이마테
+Owaka	오와카
+Reefton	리프턴
+Ruatahuna	루아타후나
+Onekaka	오네카타
+Patea	파테아
+Mount Somers	마운트 소머스

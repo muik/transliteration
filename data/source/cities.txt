@@ -50,17 +50,14 @@ Cairns	케언즈
 Hiroshima	히로시마
 Nairobi	나이로비
 Kenya	케냐
-Boston	보스톤
 Ho Chi Minh	호치민
 Adelaide	아델레이드
 Okinawa	오키나와
 Taipei	타이페이
-Atlanta	아틀란타
 Cape Town	케이프타운
 South Africa	사우스아프리카
 Israel	이스라엘
 Komatsu	고마츠
-Christchurch	크라이스트쳐치
 San Francisco	샌프란시스코
 Guam	괌
 Amsterdam	암스테르담
@@ -294,7 +291,7 @@ Bastia	바스티아
 Biarritz	비아리츠
 Aberdeen	애버딘
 Belfast	벨파스트
-Birmingham	버밍햄 영국
+Birmingham	버밍햄
 Bristol	브리스톨
 Cardiff	카디프
 Leeds	리즈
@@ -398,7 +395,6 @@ Saga	사가
 Ishigaki	이시가키
 Iwami	이와미
 Izumo	이즈모
-Kochi	고치
 Kita Kyushu	키타큐슈
 Miyazaki	미야자키
 Kagoshima	가고시마
@@ -523,7 +519,6 @@ Kathmandu	카트만두
 Nepal	네팔
 Blenheim	블레넘
 Dunedin	더니든
-Gisborne	기스번
 Kerikeri	케리케리
 Palmerston	파머스턴
 Rotorua	로토루아
@@ -660,7 +655,6 @@ Sivas	시바스
 YUSEKOVA	하카리
 Hualien	화련
 Kaohsiung	까오슝
-Taipei	타이뻬이
 Taichung	타이중
 Dar Es Salaam	다르에스살람
 Tanzania	탄자니아
@@ -687,7 +681,7 @@ Fayetteville	페이트빌
 Little Rock	리틀록
 Texarkana	텍사카나
 Phoenix	피닉스
-Tucson	투산
+Tucson	투싼
 Eureka	유레카아카타
 Bakersfield	베이커즈필드
 Carlsbad	칼스배드
@@ -697,7 +691,6 @@ Palm Springs	팜스프링스
 Redding	레딩
 San Diego	샌디에고
 Santa Barbara	산타바바라
-Santa Maria	산타 마리아
 Burbank	버뱅크
 Ontario	온타리오
 ase	아스펜
@@ -741,14 +734,12 @@ Lewiston	루이스턴
 Pocatello	포커텔로
 Sun Valley	선밸리
 Twin Falls	트윈폴스
-Bloomington	블루밍톤
-Champaign	샴페인
+Bloomington	블루밍턴
 Moline	멀린
 Peoria	페오리아
 Springfield	스프링필드
 Evansville	에번즈빌
 Ft Wayne	포트웨인
-Indianapolis	인디아나폴리스
 South Bend	사우스벤드
 Wichita	위치토
 Manhattan	맨해튼
@@ -760,7 +751,6 @@ Baton Rouge	배턴루지
 Lake Charles	레이크찰스
 Lafayette	라피엣
 Monroe	먼로
-New Orleans	뉴 올리언스
 Shreveport	슈리브포트
 Baltimore	볼티모어
 Bangor	뱅거
@@ -776,8 +766,6 @@ Marquette	마켓
 Traverse	트래블스
 Bemidji	베미지
 Duluth	덜루스
-Minneapolis	미네아폴리스
-Rochester	로제스터
 Columbia	컬럼비아
 Joplin	졸린
 Kansas City	캔자스시티
@@ -795,7 +783,6 @@ Charlotte	샬럿
 New Bern	뉴번
 Greensboro	그린즈버러
 Wilmington	윌밍턴
-Raleigh	랠리더햄
 Bismarck	비스마르크
 Fargo	파고
 Omaha	오마하
@@ -812,8 +799,6 @@ White Plains	화이트 플레인스
 Rochester	로체스터
 Newburgh	뉴버그
 Syracuse	시라큐스
-Akron	아크론캔톤
-Cleveland	클리브랜드
 Cincinnati	신시내티
 Dayton	데이턴
 Toledo	토레도
@@ -828,13 +813,12 @@ Erie	에리
 Harrisburg	해리스버그
 Pittsburgh	피츠버그
 State College	스테이트칼리지
-San Juan	산 후앙
+San Juan	산후앙
 Providence	프로비던스
 Charleston	찰스턴
 Greenville	그린빌
 Myrtle Beach	미틀 비치
 Rapid City	래피드시티
-Nashville	내쉬빌
 Chattanooga	채터누가
 Memphis	멤피스
 Knoxville	녹스빌
@@ -854,7 +838,6 @@ San Antonio	샌안토니오
 San Angelo	산안젤로
 Wichita Falls	위치타폴스
 Tyler	테일러
-Houston	휴스톤
 Cedar City	시더시티
 St George	세인트 죠지
 Salt Lake City	솔트레이크시티
@@ -874,7 +857,6 @@ Milwaukee	밀워키
 Madison	매디슨
 Cody	코디
 Casper	카스퍼
-Jackson	잭슨홀
 Rock Springs	록 스프링스
 Montevideo	몬테비데오
 Uruguay	우루과이

@@ -79,7 +79,6 @@ dumping	덤핑
 daisy	데이지
 data	데이터
 date	데이트
-Design	데자인
 doughnut	도넛
 doping	도핑
 doctrine	독트린
@@ -96,8 +95,6 @@ DJ	디제이
 digital	디지털
 digital camera	디지털카메라
 dill	딜
-dance	딴스
-Dollar	딸라
 radon	라돈
 radio	라디오
 lavash	라바슈
@@ -234,7 +231,6 @@ biotechnology	바이오테크놀로지
 violinist	바이올리니스트
 violin	바이올린
 byte	바이트
-bazaar	바자회
 barge	바지
 bartender	바텐더
 box	박스
@@ -264,7 +260,6 @@ board game	보드게임
 bodyguard	보디가드
 bodybuilding	보디빌딩
 bohrium	보륨
-bowling	보링
 boy	보이
 boycott	보이콧
 boat	보트
@@ -279,13 +274,13 @@ brassiere	브래지어
 brandy	브랜디
 brake	브레이크
 blouse	블라우스
-black	블랙커피
+black	블랙
 black hole	블랙홀
 blazar	블레이자
 blog	블로그
 blueberry	블루베리
 blue ocean	블루오션
-blue	블루진
+blue	블루
 blue-collar	블루칼라
 Venus	비너스
 vinyl	비닐
@@ -358,7 +353,6 @@ smog	스모그
 scout	스카우트
 scandium	스칸듐
 skate	스케이트
-skate	스케트
 ski	스키
 skinny jeans	스키니진
 style	스타일
@@ -386,7 +380,6 @@ sheet	시트
 xylophone	실로폰
 symposium	심포지엄
 announcer	아나운서
-are	아르
 argon	아르곤
 armadillo	아르마딜로
 amaryllis	아마릴리스
@@ -395,10 +388,9 @@ americium	아메리슘
 amoeba	아메바
 almond	아몬드
 avocado	아보카도
-Apartment	아빠트
 acetate	아세테이트
 acetaldehyde	아세트알데히드
-ASCII	아스키코드
+ASCII	아스키
 astatine	아스타틴
 asphalt	아스팔트
 outline	아우트라인
@@ -484,7 +476,6 @@ all game	올게임
 oligomer	올리고머
 olive	올리브
 Olympic	올림픽
-white	와이셔츠
 wine	와인
 waltz	왈츠
 yogurt	요구르트
@@ -503,7 +494,6 @@ humour	유머
 igloo	이글루
 iridium	이리듐
 image	이미지
--ism	이즘
 ytterbium	이테르븀
 yttrium	이트륨
 instant	인스턴트
@@ -518,7 +508,6 @@ gyroscope	자이로스코프
 jaguar	재규어
 jazz	재즈
 jam	잼
-Jazz	쟈즈
 zero	제로
 zero game	제로게임
 gesture	제스처
@@ -537,7 +526,7 @@ chicken	치킨
 cheetah	치타
 chimpanzee	침팬지
 carnation	카네이션
-canon	카논
+canon	캐논
 carnival	카니발
 card	카드
 cadmium	카드뮴
@@ -577,7 +566,7 @@ computer game	컴퓨터게임
 cup	컵
 cable	케이블
 cake	케이크
-corner	코너킥
+corner	코너
 codec	코덱
 code	코드
 cobalt	코발트
@@ -585,7 +574,6 @@ cobra	코브라
 cosmos	코스모스
 cos	코스어
 coach	코치
-condominium	콘도
 condominium	콘도미니엄
 condom	콘돔
 concert	콘서트
@@ -605,7 +593,7 @@ crystal	크리스털
 cricket	크리켓
 cream	크림
 krypton	크립톤
-xanthine	크산틴
+xanthine	잔틴
 clarinet	클라리넷
 climax	클라이맥스
 class	클래스
@@ -652,7 +640,6 @@ text	텍스트
 tent	텐트
 television	텔레비전
 television game	텔레비전게임
-television	텔레비죤
 telephone	텔레폰
 template	템플릿
 thorium	토륨
@@ -669,7 +656,6 @@ trunk	트렁크
 trailer	트레일러
 trend	트렌드
 TV	티브이
-T-shirt	티샤쓰
 T-shirt	티셔츠
 ticket	티켓
 titanium	티타늄

@@ -50,7 +50,6 @@ gate way	게이트웨이
 game	게임
 game over	게임 오버
 ghetto	게토
-Gel	겔
 Gethsemane	겟세마네
 go	고
 go-go	고고
@@ -167,7 +166,6 @@ dining room	다이닝룸
 dynamic	다이내믹
 diver	다이버
 diving	다이빙
-diamond	디이아몬드
 dial	다이알
 diary	다이어리
 diet	다이어트
@@ -203,7 +201,6 @@ daily	데일리
 department store	데파트먼트 스토어
 dental	덴탈
 depth interview	데프스인터뷰
-dog	도그
 dog	도그
 doughnut	도넛
 transmitter	도란스
@@ -247,10 +244,9 @@ digital	디지털
 dealer	딜러
 dance	댄스
 D-RAM	램
-dialogue	디이얼로그
+dialogue	다이얼로그
 designer	디자이너
 dessert	디저트
-think tank	딩크 탱크
 label	라벨
 rabbi	라비
 last	라스트
@@ -272,7 +268,6 @@ running shirt	러닝셔츠
 love	러브
 love story	러브 스토리
 rush	러시
-lucky	러키
 running	런닝
 red	레드
 red card	레드카드
@@ -294,8 +289,6 @@ resident	레지던트
 letter	레테르
 lens	렌즈
 wrench	렌치
-rent-a-car	렌터카
-Rontgen	렌트겐
 low	로
 law	로
 logo	로고
@@ -303,10 +296,8 @@ romance	로맨스
 romantic	로맨틱
 robot	로봇
 lobby	로비
-robbxist	로비스트
 lotion	로션
 roast	로스
-low school	로스쿨
 roaster	로스터
 royal	로열
 royalty	로열티
@@ -342,7 +333,6 @@ limousine	리무진
 living	리빙
 living room	리빙룸
 research	리서치
-reception	리셉선
 list	리스트
 real	리얼
 realist	리얼리스트
@@ -472,8 +462,7 @@ moral	모랄
 moral hazord	모럴 해저드
 Morphine	모르핀
 moment	모멘트
-mobile	모빌
-mobile house	모빌하우스
+mobile house	모바일하우스
 Moslem	모슬렘
 moisture	모이스처
 Mosaik	모자이크
@@ -508,7 +497,6 @@ medium	미디엄
 miss	미스
 miss korea	미스 코리아
 mister	미스터
-machine	미싱
 mirra	미이라
 miserable	미제라블
 microhm	미크롬
@@ -660,7 +648,6 @@ vinyl house	비닐 하우스
 bidet	비데
 video tape	비디오 테이프
 beer	비루
-Virus	비루스
 beaver	비버
 BBC	비비시
 biscuit	비스켓
@@ -720,7 +707,7 @@ sandwich	샌드위치
 salad	샐러드
 salariman	샐러리맨
 sample	샘플
-channel	샤넬
+chanel	샤넬
 Sharon	샤론
 shower	샤워
 sharp	샤프
@@ -780,7 +767,6 @@ sophia	소피아
 solar house	솔라하우스
 solo	솔로
 Solomon	솔로몬
-solution	솔류션
 song	송
 show	쇼
 show man ship	쇼맨쉽
@@ -801,7 +787,7 @@ Shou cream	슈크림
 shooting	슈팅
 super	슈퍼
 supermarket	슈퍼마켓
-superman	슈펴맨
+superman	슈퍼맨
 superspecial	슈퍼스페설
 snack	스낵
 slot machine	스롯머신
@@ -857,9 +843,9 @@ study	스터디
 stage	스테이지
 stage manager	스테이지 매니저
 steak	스테이크
-standard test	스텐다드 테스트
-stamp hammer	스템프 해머
-stuff	스텁
+standard test	스탠다드 테스트
+stamp hammer	스탬프 해머
+stub	스텁
 station	스테이션
 stain	스테인
 stainless	스테인레스
@@ -880,7 +866,6 @@ steam	스팀
 steam engine	스팀엔진
 spaghetti	스파게티
 spy	스파이
-spuit	스퍼이트
 special	스페셜
 specialist	스페셜리스트
 special sales	스페셜세일즈
@@ -894,7 +879,6 @@ sponge	스폰지
 spray	스프레이
 spoon	스푼
 spring	스프링
-spring coat	스프링 코드
 speed	스피드
 speech	스피치
 speaker	스피커
@@ -904,7 +888,7 @@ slider	슬라이드
 sliding	슬라이딩
 slump	슬럼프
 slipper	슬리퍼
-slow	슬로
+slow	슬로우
 slogan	슬로건
 sea	시
 cigar	시가
@@ -920,15 +904,15 @@ simulator	시뮬레이터
 seesaw	시소
 system	시스템
 season	시즌
-secret	시크렛
+secret	시크릿
 city	시티
 sitcom	시트콤
 syndrome	신드롬
 Siloam	실로암
 xylophone	실로폰
 silicone	실리콘
-silicon chip	실리콘 칩
-silicon vally	실리콘 벨리
+silicon chip	실리콘칩
+silicon vally	실리콘밸리
 cylinder	실린더
 silver	실버
 silk	실크
@@ -938,7 +922,6 @@ simple	심플
 single	싱글
 singer	싱어
 sink	싱크
-sink	싱크대
 think tank	싱크탱크
 agape	아가페
 announcer	아나운서
@@ -946,7 +929,6 @@ analog	아날로그
 Adam	아담
 Arabia	아라비아
 Arabian Night	아라비안나이트
-are	아르
 aria	아리아
 Amateur	아마추어
 Americana	아메리카나
@@ -968,19 +950,20 @@ iris	아이리스
 ivory	아이보리
 eye shadow	아이섀도
 ice	아이스
-ice rink	이이스링크
+ice rink	아이스링크
 ice bag	아이스백
 ice cream	아이스크림
 ice water	아이스 워터
 iron	아이언
 IMF	아이엠에프
-IOC	아이오 씨
+IOC	아이오씨
 IQ	아이큐
 item	아이템
 island	아일랜드
 icon	아이콘
 academy	아카데미
-a capella	아카펠라
+a capella	아 카펠라
+acapella	아카펠라
 academy	아카데미
 aque	아쿠아
 Achilles	아킬레스
@@ -1005,7 +988,6 @@ encore	앙콜
 animal	애니멜
 animation	애니메이션
 ad-blloon	애드벌룬
-adventure	에드벤체
 atom	애톰
 after service	애프터 서비스
 accessory	액세사리
@@ -1025,13 +1007,13 @@ yard	야드
 YAHOO	야후
 Yankee style	양키 스타일
 adaptor	어댑터
-adcenture	어드벤처
-arrive	어리이브
+adventure	어드벤처
+arrive	어라이브
 earth	어스
 appeal	어필
 under	언더
 up	업
-up grade	업그레이드
+upgrade	업그레이드
 ego	에고
 egg milk	에그밀크
 egg pudding	에그 푸딩
@@ -1047,7 +1029,6 @@ emerald	에메랄드
 essence	에센스
 essay	에세이
 escalator	에스컬레이터
-escape	에스케이프
 Eskimo	에스키모
 aerobics	에어로빅스
 air mail	에어메일
@@ -1056,11 +1037,10 @@ air valve	에어 밸브
 air condition	에어 컨디션
 air hole	에어홀
 Aestetik	에스테틱
-ARS	에쓰
 AM	에이엠
 agent	에이전트
 AIDS	에이즈
-AQ	에이 큐
+AQ	에이큐
 FBI	에프비아이
 FM	에프엠
 episode	에피소드
@@ -1069,7 +1049,6 @@ extract	엑기스
 air conditioner	에어컨
 air port	에어포트
 estrogen	에스트레젠
-exciting	엑사이팅
 X-ray	엑스레이
 ecstasy	엑스터시
 expert	엑스퍼트
@@ -1170,8 +1149,7 @@ waffle	와플
 wine	와인
 wine glass	와인 글라스
 wild	와일드
-Vazin	왁찐
-waltz	왈쯔
+waltz	왈츠
 old boy	올드보이
 yoga	요가
 yoghurt	요구르트
@@ -1208,7 +1186,6 @@ want	원트
 one-piece	원피스
 world	월드
 world game	월드게임
-world wide web	웹
 World Cup Soccer	월드컵
 wolf	울프
 warm color	웜 칼라
@@ -1270,7 +1247,6 @@ effect	이펙트
 epoch-making	이폭 메이킹
 excite	익사이트
 exciting	익사이팅
-exchange	익스첸지
 expensive	익스펜시브
 express	익스프레스
 industrial designer	인더스트리얼 디자이너
@@ -1303,7 +1279,6 @@ impedance coil	임피던스 코일
 Inca	잉카
 ink eraser	잉크 이레이서
 english	잉글리시
-apple	애폴
 www	웹
 air	에어
 jockey	자키
@@ -1317,7 +1292,6 @@ jamboree	잼버리
 journalist	저널리스트
 journalism	저널리즘
 journey	저니
-German	저맨
 just	저스트
 judge	저지
 jumbo	점보
@@ -1379,7 +1353,6 @@ chain reaction	체인 리액션
 chain store	체인 스토어
 check	체크
 check valve	체크 밸브
-check	첵
 change	체인지
 cello	첼로
 choise	초이스
@@ -1402,13 +1375,11 @@ canaria	카나라아
 qanat	카나트
 carnation	카네이션
 carnival	카니발
-catalog	카다록
 card	카드
 cardigan	카디건
 collar	카라
 Charisma	카리스마
 chameleon	카멜레온
-cover	카바
 cowboy	카우보이
 cassette	카세트
 cassettetape	카세트테이프
@@ -1567,7 +1538,6 @@ concrete-mixer	콘크리트믹서
 contct	콘택트
 contact lens	콘택트 렌즈
 contest	콘테스트
-container	콘테이너
 contents	콘텐츠
 contrast	콘트라스트
 contralto	콘트랄토
@@ -1578,17 +1548,13 @@ cold war	콜드워
 cold color	콜드컬러
 cholera	콜레라
 cholesterol	콜레스테롤
-collection	콜렉션
 colloid	콜로이드
 call money	콜 머니
 call signal	콜시그날
 coal tar	콜타르
-combine	콤바인
 kompas	콤파스
 compress	콤프레스
 complex	콤플렉스
-concourse	콩코스
-concours	콩쿨
 conte	콩트
 quiet zone	콰이어트 존
 cushion	쿠션

@@ -1,0 +1,228 @@
+# 사용자 수정 제안
+# https://transliterator.herokuapp.com/ 
+Guardian	가디언
+galaxy	갤럭시
+galaxy alpha	갤럭시 알파
+go to	고투
+guam	괌
+graphic	그래픽
+glorified	글로리파이드
+Namuwiki	나무위키
+nice	나이스
+neanderthal	네안데르탈
+nexon	넥슨
+Netflix	넷플릭스
+newbie	뉴비
+direct	다이렉트
+diamond	다이아몬드
+Daewoo	대우
+Dancehall	댄스홀
+The Day Before	더데이비포
+data algorithms	데이터 알고리즘
+donald trump	도널드 트럼프
+durango	듀랑고
+dual	듀얼
+Drum and Bass	드럼 앤드 베이스
+demand	디맨드
+decided	디사이디드
+Disabler	디스에이블러
+differential power analysis	디퍼런셜 파워 어낼리시스
+dictionary	딕셔너리
+deep learning	딥러닝
+think	씽크
+radio	라디오
+riding	라이딩
+lion	라이온
+lycos	라이코스
+lobster	랍스터
+laughter	래프터
+lab	랩
+laptop	랩탑
+Launcher	런처
+raggamuffin	레게머핀
+resume	레쥬메
+linearization	리니어라이제이션
+Resource	리소스
+Mars	마스
+my name is	마이 네임 이즈
+microsoft	마이크로소프트
+mad	매드
+Magic Brush	매직브러시
+mixtape	믹스테이프
+million	밀리언
+barack obama	버락 오바마
+Park Chan-wook	박찬욱
+baldur's gate	발더스게이트
+Baskin robbins	배스킨라빈스
+batman	배트맨
+backup	백업
+variety	버라이어티
+Bungee	번지
+But	벗
+Value	벨류
+Byun	변
+bro	브로
+begin	비긴
+begin again	비긴 어게인
+bmw	비엠더블유
+Beyond	비욘드
+Business Calendar	비지니스 캘린더
+Bit coin	비트코인
+behind	비하인드
+big	빅
+samuel beckett	사뮈엘 베케트
+sometime	섬타임
+Sung KIM	성김
+Sungwoo	성우
+cellular	셀룰러
+shutdown	셧다운
+Shut up	셧업
+Superman	슈퍼맨
+supervisor	슈퍼바이저
+Smart XPay	스마트 엑스페이
+SkyView	스카이뷰
+skate	스케이트
+starcraft	스타그래프트
+Staten	스테이튼
+state	스테이트
+Stochastic	스토캐스틱
+steve jobs	스티브 잡스
+Steering	스티어링
+Sphere Tones	스피어톤즈
+sims	심즈
+sync	싱크
+Some	썸
+Ashgabat	아시가바트
+itunes	아이튠즈
+Artify	아티파이
+algorithm	알고리즘
+R&B	알앤비
+Alpha	알파
+analytics	애널리틱스
+any	애니
+admob	애드몹
+adsense	애드센스
+Ashley Olsen	애슐리 올슨
+apple	애플
+absent	앱센트
+Adult	어덜트
+admin	어드민
+adventure	어드벤처
+amuse	어뮤즈
+abandon	어밴던
+unknown	언노운
+Undercover	언더커버
+undead	언데드
+unbind	언바인드
+uninstall	언인스톨
+unhappy	언해피
+alive	얼라이브
+every	에브리
+SSD	에스에스디
+airbnb	에어비앤비
+asus	에이수스
+FBI	에프비아이
+excellent	엑설런트
+Xbox	엑스박스
+XPay	엑스페이
+enthusia	엔써지아
+angel	엔젤
+element	엘리먼트
+mx player	엠엑스 플레이어
+mPOP	엠팝
+edge	엣지
+oracle	오라클
+Onoffmix	온오프믹스
+almost	올모스트
+always	올웨이즈
+Wi-Fi	와이파이
+What are you doing	왓아유두잉
+yolo	욜로
+warcraft	워크래프트
+wonder	원더
+wanted	원티드
+Webster's	웹스터즈
+wind	윈드
+Used	유즈드
+Ethernet	이더넷
+even though	이븐도우
+evil	이블
+lee sang bong	이상봉
+exchange	익스체인지
+exclude	익스클루드
+engagement	인게이지먼트
+indivisual	인디비주얼
+install	인스톨
+Instructor	인스트럭터
+include	인클루드
+eleven	일레븐
+important	임포턴트
+junglist	정글리스트
+jupiter	주피터
+Jin Air	진에어
+check	체크
+Camera Connect	카메라 커넥트
+couch	카우치
+couchsurfing	카우치서핑
+Kind	카인드
+canon	캐논
+characterization	캐릭터라이제이션
+calvin	캘빈
+Captain America	캡틴 아메리카
+Contemporary	컨템퍼러리
+KBS kong	케이비에스 콩
+code jam	코드잼
+costco	코스트코
+coex	코엑스
+quality	퀄리티
+Question	퀘스천
+Quest	퀘스트
+kyu	큐
+Crowd	크라우드
+task	태스크
+Taejoon	태준
+Taejoon Byun	태준변
+TeslaUnread	테슬라언리드
+TensorFlow	텐서플로우
+torrent	토렌트
+two	투
+Together	투게더
+to go	투고
+Todoist	투두이스트
+tour	투어
+trial	트라이얼
+Trans Caspian	트란스카스피안
+trash	트래쉬
+twitter	트위터
+T map	티맵
+T'way Air	티웨이에어
+panasonic	파나소닉
+poweramp	파워앰프
+python	파이썬
+Fabric	패브릭
+fast	패스트
+personal	퍼스널
+function	펑션
+foreigner	포리너
+foreign	포린
+Pushbullet	푸시불렛
+friend	프렌드
+friends	프렌즈
+prototype	프로토타입
+Floccinaucinihilipilification	플록시노시나이힐리필리피케이션
+Fever	피버
+physical	피지컬
+How have you been	하우 헤브 유 빈
+how to	하우투
+Hyperlapse	하이퍼랩스
+hangout	행아웃
+hang out	행아웃
+hungry	헝그리
+heaven	헤븐
+Hyundai	현대
+hyoung	형
+hostel world	호스텔 월드
+Heungsub	흥섭
+he is a boy	히 이즈 어 보이
+Hero	히어로
+Hillary clinton	힐러리 클린턴

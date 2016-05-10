@@ -1,0 +1,745 @@
+# 두산백과 - IT
+# http://terms.naver.com/list.nhn?cid=40942&categoryId=32827
+Bit Coin	비트코인
+KakaoTalk	카카오톡
+Facebook	페이스북
+Instagram	인스타그램
+Arduino	아두이노
+protocol	프로토콜
+YouTube	유튜브
+Ethernet	이더넷
+AlphaGo	알파고
+Cloud Computing	클라우드 컴퓨팅
+Android	안드로이드
+Infographics	인포그래픽
+software	소프트웨어
+mobile	모바일
+router	라우터
+data base	데이터베이스
+smart phone	스마트폰
+ransomware	랜섬웨어
+LINE	라인
+Day Marketing	데이마케팅
+snapchat	스냅챗
+Linux	리눅스
+data mining	데이터마이닝
+spread sheet	스프레드시트
+Flash Memory	플래시메모리
+PowerPoint	파워포인트
+firmware	펌웨어
+internet	인터넷
+Tag	태그
+domain	도메인
+process	프로세스
+digital	디지털
+mainboard	메인보드
+hub	허브
+user interface	유저인터페이스
+interrupt	인터럽트
+tethering	테더링
+interface	인터페이스
+Uber	우버
+twitter	트위터
+archive	아카이브
+metadata	메타데이터
+cache memory	캐시메모리
+dropbox	드롭박스
+hardware	하드웨어
+rendering	렌더링
+watermark	워터마크
+blog	블로그
+module	모듈
+contents	콘텐츠
+middleware	미들웨어
+crowd funding	크라우드 펀딩
+solution	솔루션
+intranet	인트라넷
+server	서버
+compiler	컴파일러
+embedded system	임베디드시스템
+hypertext	하이퍼텍스트
+Codec	코덱
+Avatar	아바타
+hot spot	핫스팟
+Telematics	텔레매틱스
+yahoo	야후
+Machine Learning	머신 러닝
+macro	매크로
+core	코어
+cookie	쿠키
+hacking	해킹
+Google	구글
+Excel	엑셀
+streaming	스트리밍
+registry	레지스트리
+Macintosh	매킨토시
+microprocessor	마이크로프로세서
+repeater	리피터
+data	데이터
+programmer	프로그래머
+workstation	워크스테이션
+FinTech	핀테크
+Ubiquitous	유비쿼터스
+Naver Band	네이버 밴드
+legacy	레거시
+Pharming	파밍
+Lineage	리니지
+Deep Learning	딥 러닝
+hamming code	해밍코드
+bluetooth	블루투스
+bridge	브리지
+kiosk	키오스크
+power supply	파워서플라이
+open source	오픈소스
+firm banking	펌뱅킹
+flash game	플래시게임
+Kakao Pay	카카오페이
+groupware	그룹웨어
+Mashup	매시업
+hard disk drive	하드 디스크 드라이브
+migration	마이그레이션
+browser	브라우저
+Gray Code	그레이 코드
+packet	패킷
+cache	캐시
+DevOps	데브옵스
+Edge	엣지
+multitasking	멀티태스킹
+byte	바이트
+system software	시스템소프트웨어
+Social Network Service	소셜 네트워크 서비스
+iPhone	아이폰
+spyware	스파이웨어
+programming	프로그래밍
+Sniffer	스니퍼
+Amazon	아마존
+Java	자바
+storage	스토리지
+cracker	크래커
+Internet Explorer	인터넷익스플로러
+E-mail	이메일
+korea.com	코리아닷컴
+phishing	피싱
+multiplexer	멀티플렉서
+Beacon	비콘
+Tomcat	톰캣
+Tablet	태블릿
+plug and play	플러그 앤드 플레이
+register	레지스터
+worm virus	웜바이러스
+proxy	프록시
+LANcard	랜카드
+internet portal site	인터넷포털사이트
+Pokemon	포켓몬
+App store	앱스토어
+Sandbox	샌드박스
+key board	키보드
+architecture	아키텍처
+switching hub	스위칭허브
+Turing test	튜링 테스트
+program	프로그램
+port	포트
+backbone	백본
+Alipay	알리페이
+method	메소드
+Connected Car	커넥티드 카
+naver	네이버
+semantic web	시멘틱 웹
+BlackBerry	블랙베리
+shareware	셰어웨어
+impedance matching	임피던스 매칭
+visual basic	비주얼 베이직
+webhard	웹하드
+Torrent	토렌트
+Bootstrap	부트스트랩
+wild card	와일드카드
+debug	디버그
+overhead	오버헤드
+supervisor	슈퍼바이저
+unicode	유니코드
+netiquette	네티켓
+Proxy server	프락시 서버
+AutoCAD	오토 캐드
+subnet	서브넷
+Auction	옥션
+digital forensics	디지털 포렌식
+bundle	번들
+Nexus	넥서스
+Nand Flash Memory	낸드플래시메모리
+internet banking	인터넷뱅킹
+prototyping	프로토타이핑
+stack	스택
+console	콘솔
+Test Bed	테스트베드
+Photoshop	포토샵
+cybernetics	사이버네틱스
+download	다운로드
+computer	컴퓨터
+web hosting	웹호스팅
+homepage	홈페이지
+iPad	아이패드
+Google Chrome	구글 크롬
+reverse engineering	리버스엔지니어링
+Star-craft	스타크래프트
+clipboard	클립보드
+mobile card	모바일카드
+Nokia	노키아
+buffer	버퍼
+network	네트워크
+Illustrator	일러스트레이터
+Unix	유닉스
+ActiveX	액티브엑스
+entity	엔티티
+Apache	아파치
+siri	시리
+Social Media	소셜 미디어
+Warcraft	워크래프트
+client server	클라이언트서버
+Wikileaks	위키리크스
+web site	웹사이트
+i-doser	아이도저
+file system	파일 시스템
+global navigation bar	글로벌내비게이션바
+UFC	유에프씨
+Delphi	델파이
+empas	엠파스
+iCloud	아이클라우드
+Apple Pay	애플페이
+notebook computer	노트북 컴퓨터
+Internet FAX	인터넷팩스
+interactive	인터랙티브
+diskette	디스켓
+internet marketing	인터넷마케팅
+Paran	파란
+web server	웹서버
+cybersquatting	사이버스쿼팅
+WIPI	위피
+WYSIWYG	위지윅
+WordPress	워드프레스
+diablo	디아블로
+online game	온라인게임
+access	액세스
+FORTRAN	포트란
+hacker	해커
+Crowd Sourcing	크라우드 소싱
+Hangame	한게임
+touch screen	터치스크린
+Chromecast	크롬캐스트
+data warehouse	데이터웨어하우스
+hand-off	핸드오프
+floating	플로팅
+multicast	멀티캐스트
+pholar	폴라
+algorithm	알고리즘
+internet data center	인터넷데이터센터
+Say Club	세이클럽
+unicast	유니캐스트
+parity bit	패리티 비트
+iTunes	아이튠즈
+Cortana	코타나
+emulator	에뮬레이터
+NateOn	네이트온
+mirror site	미러사이트
+Digital Signage	디지털 사이니지
+computer virus	컴퓨터바이러스
+bookmark	북마크
+overture	오버추어
+Evernote	에버노트
+Pinterest	핀터레스트
+Profile	프로파일
+COBOL	코볼
+file	파일
+single sign on	싱글 사인 온
+Playstation	플레이스테이션
+Aladdin	알라딘
+big data	빅데이터
+trigger	트리거
+Napster	냅스터
+stress test	스트레스 테스트
+Extranet	엑스트라넷
+Retina Display	레티나 디스플레이
+Tizen	타이젠
+grid computing	그리드컴퓨팅
+rummikub	루미큐브
+WordArt	워드아트
+segment	세그먼트
+jenga	젠가
+true color	트루컬러
+Newsletter	뉴스레터
+data communication	데이터통신
+Anonymous	어나니머스
+Adobe Flash	어도비 플래시
+Program Counter	프로그램 카운터
+Apple Watch	애플 워치
+Nocut News	노컷뉴스
+Windows Vista	윈도우 비스타
+iPod	아이팟
+image map	이미지맵
+clip art	클립 아트
+digitizer	디지타이저
+DCinside	디시인사이드
+applet	애플릿
+messenger	메신저
+mouse	마우스
+device driver	디바이스 드라이버
+beer game	비어게임
+hard copy	하드카피
+computer network	컴퓨터네트워크
+Usenet	유즈넷
+software engineering	소프트웨어공학
+keyword marketing	키워드마케팅
+CAD CAM system	캐드캠시스템
+Headroom	헤드룸
+cyber stalking	사이버스토킹
+north bridge	노스브리지
+spam mail	스팸메일
+thrunet	두루넷
+mailing list	메일링리스트
+Tool Bar	툴바
+page view	페이지뷰
+repurposing	리퍼포징
+Kartrider	카트라이더
+utility program	유틸리티프로그램
+video adapter	비디오 어댑터
+bar code	바코드
+haptics	햅틱스
+DivX	디빅스
+telebanking	텔레뱅킹
+data file	데이터파일
+Set Top Box	셋톱박스
+docking station	도킹스테이션
+code	코드
+frame relay	프레임릴레이
+microblog	마이크로블로그
+smart card	스마트카드
+Microsoft Word	엠에스워드
+Red Alert	레드얼럿
+hacktivism	핵티비즘
+Break News	브레이크뉴스
+Android Pay	안드로이드페이
+chipset	칩셋
+multiprogramming	멀티프로그래밍
+rich media	리치미디어
+RAM-disk	램디스크
+soribada	소리바다
+Perl	펄
+login	로그인
+Carrier Aggregation	캐리어 어그리게이션
+Firefox	파이어폭스
+altavista	알타비스타
+Crazyarcade	크레이지아케이드
+hoax	혹스
+nownuri	나우누리
+Pascal	파스칼
+skype	스카이프
+world wide web	월드와이드웹
+ripping	리핑
+Internet Business	인터넷비즈니스
+alpha test	알파테스트
+UNIVAC	유니박
+gopher	고퍼
+Kindle	킨들
+crawler	크롤러
+in silico	인실리코
+paging	페이징
+smart wear	스마트웨어
+sector	섹터
+viewer	뷰어
+ENIAC	에니악
+honey pot	허니팟
+Hangul domain	한글도메인
+Google Now	구글 나우
+Scheduling	스케줄링
+Quark Xpress	쿼크익스프레스
+Hybrid	하이브리드
+Athlon	애슬론
+emoticon	이모티콘
+look and feel	룩 앤드 필
+merge sort	머지소트
+Phaser	페이저
+Qshing	큐싱
+buffer memory	버퍼메모리
+south bridge	사우스브리지
+serial	시리얼
+multiprocessing	멀티프로세싱
+plug-in program	플러그인 프로그램
+minicomputer	미니컴퓨터
+GeForce	지포스
+media	미디어
+logout	로그아웃
+shockwave	쇼크웨이브
+Host Card Emulation	호스트 카드 에뮬레이션
+cyberslacking	사이버슬래킹
+Microsoft Office	엠에스오피스
+Maxmovie	맥스무비
+NOR flash memory	노어플래시메모리
+click-and-mortar	클릭앤드모타르
+Dithering	디더링
+partition	파티션
+Batoo	바투
+internet cafe	인터넷카페
+microprogram	마이크로프로그램
+cyberterror	사이버테러
+biocomputer	바이오컴퓨터
+Baldur's Gate	발더스게이트
+Pentium	펜티엄
+internet hub site	인터넷허브사이트
+truetype	트루타입
+repository	리포지터리
+White box	화이트박스
+host computer	호스트컴퓨터
+Netbook	넷북
+cable modem	케이블모뎀
+nate	네이트
+assembler	어셈블러
+superscalar	슈퍼스칼라
+Deep Blue	딥블루
+groove	그루브
+engine	엔진
+operator	오퍼레이터
+word processor	워드프로세서
+call-back	콜백
+CeBIT	세빗
+virus marketing	바이러스마케팅
+hybrid computer	하이브리드컴퓨터
+iMac	아이맥
+memory interleaving	메모리 인터리빙
+Thread	스레드
+boot virus	부트바이러스
+love virus	러브바이러스
+shared memory	공유메모리
+NetWare	네트웨어
+Screen Scraping	스크린 스크래핑
+programming language	프로그래밍언어
+bus	버스
+analog computer	아날로그컴퓨터
+Maya	마야
+upload	업로드
+macro virus	매크로바이러스
+Simcity	심시티
+computer vaccine	컴퓨터백신
+Add-On Program	애드온 프로그램
+galaga	갤러그
+Flash Animation	플래시애니메이션
+celeron	셀러론
+patch program	패치프로그램
+BASIC	베이식
+Web Casting	웹캐스팅
+nano-computer	나노컴퓨터
+netsgo	넷츠고
+Fibre channel	파이버 채널
+multicodec	멀티코덱
+EMACS	이맥스
+cyber money	사이버머니
+Orange Book	오렌지북
+trackball	트랙볼
+bloatware	블로트웨어
+Google Wallet	구글 월렛
+Memory card	메모리카드
+digital camera	디지털 카메라
+wheel mouse	휠마우스
+billing system	빌링시스템
+white space	화이트스페이스
+RollerCoaster Tycoon	롤러코스터 타이쿤
+Code Red	코드레드
+touch pad	터치패드
+internet cafe	인터넷카페
+CASE tool	케이스툴
+Icon	아이콘
+web animation	웹애니메이션
+WikiWiki	위키위키
+HomeKit	홈킷
+cyberliteracy	사이버리터러시
+digital computer	디지털컴퓨터
+Lotus Notes	로터스 노츠
+X-Box	엑스박스
+Real Player	리얼플레이어
+Real Audio	리얼오디오
+cache server	캐시서버
+joke virus	조크바이러스
+Opt-in mail	옵트인메일
+splogger	스플로거
+parity check	패러티 검사
+Homonarrans	호모나랜스
+Utility Computing	유틸리티 컴퓨팅
+computer program	컴퓨터프로그램
+routine	루틴
+hand scanner	핸드스캐너
+shinbiro	신비로
+dot matrix printer	도트매트릭스프린터
+system file	시스템 파일
+RAMDAC	램댁
+Hanmir	한미르
+PostScript	포스트스크립트
+free software	프리소프트웨어
+Ada	에이다
+terabit	테라비트
+QuickTime	퀵타임
+PetaFlops	페타플롭스
+Arcturus	악튜러스
+Baud	보드
+degausser	디가우서
+One Number Service	원넘버서비스
+Node	노드
+Weave	위브
+bot program	보트프로그램
+dreamwiz	드림위즈
+booting	부팅
+microcomputer	마이크로컴퓨터
+network architecture	네트워크아키텍처
+mail merge	메일머지
+teleport	텔레포트
+dual system	듀얼시스템
+Dhrystone	드라이스톤
+simmani	심마니
+drum scanner	드럼스캐너
+sound card	사운드카드
+on-line system	온라인시스템
+super computer	슈퍼컴퓨터
+digital communication	디지털통신
+database file	데이터베이스파일
+disk mirroring	디스크 미러링
+server hotel	서버호텔
+mobile computing	모빌컴퓨팅
+traffic	트래픽
+ALGOL	알골
+internet vortal site	인터넷보탈사이트
+Internet Radio	인터넷라디오
+Webaholic	웹홀릭
+backbone LAN	백본랜
+courseware	코스웨어
+lite ware	라이트웨어
+cyberapt	사이버아파트
+ebrand	이브랜드
+Grid	그리드
+subroutine	서브루틴
+cyber shopping mall	사이버쇼핑몰
+ball mouse	볼마우스
+entertainment fund	엔터테인먼트펀드
+finger	핑거
+dial up	다이얼업
+ENUM	이넘
+downsizing	다운사이징
+pointing stick	포인팅스틱
+meta engine	메타엔진
+Windows Mobile	윈도우 모바일
+Blogger.com	블로거닷컴
+Inbound link	인바운드 링크
+Giga-Fi	기가파이
+upgrade	업그레이드
+Tetris	테트리스
+audio video interleaving	오디오비디오인터리빙
+folder	폴더
+bug	버그
+Cinepak	시네팩
+interleave	인터리브
+negware	네그웨어
+combi card	콤비카드
+Opera	오페라
+access time	액세스타임
+Netscape Communicator	넷스케이프커뮤니케이터
+zip disc drive	집디스크드라이브
+InnoCentive	이노센티브
+neuro computer	뉴로컴퓨터
+man-machine system	맨머신시스템
+computopia	컴퓨토피아
+Unitel networks	유니텔네트웍스
+Transistor-Transistor Logic	트랜지스터 트랜지스터 로직
+nimda virus	님다바이러스
+backup file	백업파일
+DirectX	다이렉트엑스
+Melisa virus	멜리사바이러스
+Blue-jacking	블루재킹
+news group	뉴스그룹
+FIFA series	피파시리즈
+Google dance	구글댄스
+Upkorea	업코리아
+authoring tool	오소링툴
+film scanner	필름스캐너
+warez	와레즈
+Lynx	링스
+Nassi-Shneiderman diagram	나시슈나이더만도
+discommunication	디스커뮤니케이션
+heterodyne detection	헤테로다인검파
+WinZip	윈집
+drag and drop	드래그 앤드 드롭
+web jockey	웹자키
+Passport	패스포트
+infranet	인프라넷
+internet live	인터넷라이브
+darwin	다윈
+iCHAT	아이채트
+internet governance	인터넷거버넌스
+memory stick	메모리스틱
+Corel Painter	코렐페인터
+Yellow Page	옐로페이지
+Radeon	라데온
+publizen	퍼블리즌
+Cocoa	코코아
+posdaq	포스닥
+mobile care	모바일케어
+Centrino	센트리노
+One-Click	원클릭
+internetwork	인터넷워크
+network computer	네트워크 컴퓨터
+ecard	이카드
+fax modem	팩스모뎀
+Ogg Vorbis	오그보비스
+Clearing house	클리어링 하우스
+smurfing	스머핑
+Antikythera Mechanism	안티키테라메커니즘
+system cooling	시스템쿨링
+dreamx	드림엑스
+zip drive	집드라이브
+Wintel	윈텔
+chatting	채팅
+sky internet	스카이인터넷
+cyber-mentoring	사이버 멘토링
+laptop computer	랩톱컴퓨터
+Gathering Site	게더링사이트
+rightsizing	라이트사이징
+global data base	글로벌데이터베이스
+visual programming tool	비주얼프로그래밍툴
+Chinanet	차이나넷
+matchmail	매치메일
+lower CASE tool	로어케이스툴
+home computer	홈컴퓨터
+Adam	아담
+bundling	번들링
+Family Computer	패밀리컴퓨터
+cuscom	커스컴
+serial mouse	시리얼마우스
+fire wall	파이어월
+NetView	넷뷰
+Winamp	윈앰프
+mode	모드
+audiovisual	오디오비주얼
+Cell relay	셀릴레이
+packaged program	패키지 프로그램
+jaz drive	재즈드라이브
+serial printer	시리얼 프린터
+black box	블랙박스
+love love simulation	러브러브시뮬레이션
+soldier machine	솔저머신
+digital pen	디지털 펜
+Cyber Party	사이버파티
+item	아이템
+data bank	데이터뱅크
+Secure Shell	시큐어 셸
+Master Boot Record	마스터 부트 레코드
+brochure ware	브로슈어웨어
+netian	네띠앙
+magistre virus	매지스트르바이러스
+hit	히트
+Usenet News	유즈넷 뉴스
+E-mail Magazine	이메일매거진
+KORNET	코네트
+etizen	이티즌
+Spook Valley	스푹밸리
+dsniff	디스니프
+Webcam Service	웹캠서비스
+joy stick	조이스틱
+Media Control Interface	미디어컨트롤인터페이스
+local attack	로컬공격
+Blook	블룩
+robot language	로봇언어
+omni com	옴니콤
+permunication	퍼뮤니케이션
+home bus	홈버스
+Webtop Service	웹탑서비스
+HotDog program	핫도그프로그램
+INFORTERA	인포테라
+telegram	텔레그램
+custom communication	커스텀커뮤니케이션
+nonimpact printer	논임팩트프린터
+common carrier	코먼캐리어
+computer art	컴퓨터아트
+cyberspy	사이버스파이
+graphic display	그래픽디스플레이
+Green Mark	그린마크
+mesa	메사
+multi-sync monitor	멀티싱크모니터
+digerati	디저라티
+fortress blue	포트리스블루
+anti-internet	안티인터넷
+IDP system	아이디피시스템
+nibble mode	니블모드
+Intelsat	인텔샛
+buffer under run	버퍼언더런
+SYSOP	시솝
+cyber trading	사이버트레이딩
+netpy	넷파이
+Carnivore	카니보어
+PowerNow	파워나우
+intercast	인터캐스트
+Infoseek	인포시크
+Sonoma	소노마
+cyber coin service	사이버코인서비스
+Internet Society	인터넷소사이어티
+knowledge engineer	놀리지엔지니어
+WebBench	웹벤치
+graphics engine	그래픽스엔진
+Sneaker net	스니커넷
+officecomputer	오피스컴퓨터
+censorware	센서웨어
+NetPC	넷피시
+up-sizing	업사이징
+hypergraphic	하이퍼그래픽
+QCad	큐캐드
+KaZaA	카자
+Orange Book	오렌지북
+Soft Map	소프트맵
+attachment	어태치먼트
+Apple Script	애플스크립트
+bus mouse	버스마우스
+flashpix	플래시픽스
+audiotex	오디오텍스
+laser memory card	레이저메모리카드
+Hypertext Preprocessor	하이퍼텍스트 프리프로세서
+Mbone	엠본
+holography disc	홀로그래피디스크
+off-line system	오프라인시스템
+white page	화이트 페이지
+packet writing	패킷라이팅
+Green PC	그린피시
+cyber park	사이버파크
+cyber yugoslavia	사이버유고슬라비아
+magicgate	매직게이트
+cyber diary	사이버 다이어리
+device bay	디바이스 베이
+multiwindow	멀티윈도
+microdrive	마이크로드라이브
+stylus	스타일러스
+infonesia	인포네시아
+ActiveMovie	액티브무비
+useware	유즈웨어
+Stockdaily	스탁데일리
+altvore	알트보어
+Crusoe	크루소
+netrepreneur	네트러프러너
+digital memory scope	디지털메모리스코프
+CD-V	시디브이
+WebPad	웹패드
+data-flow computer	데이터플로컴퓨터
+Newton	뉴턴
+multizen	멀티즌
+Netscape ONE	넷스케이프원
+Euronet	유로넷
+Aquastar System	아쿼스타시스템
+computocracy	컴퓨토크라시
+surround video	서라운드 비디오
+Ananova	아나노바
+magnetic bubble device	자기버블소자
+local area network analyzer	랜애널라이저
+NetBench	넷벤치
+mark reader printer	마크리더프린터
+database machine	데이터베이스머신
+programmed text	프로그램드텍스트
+ClariNet News	클라리넷 뉴스
+ez flyer	이지플라이어
+Lindose	린도즈
+Marisat System	매리샛시스템
+Simputer	심퓨터
+syjet	사이젯
+castanet	캐스터넷
+internet family	인터넷패밀리
