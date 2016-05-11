@@ -396,6 +396,7 @@ fitness	피트니스
 scan	스캔
 bot	봇
 scanbot	스캔봇
+hi 하이
 a	에이
 b	비
 c	씨
