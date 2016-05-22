@@ -5,7 +5,7 @@
 
 ##### 참고
 - 기계 학습으로 구현된 표기 변환기 예 : Google Map의 외국 지역명 표기 ([한글로 보는 세계 지도](http://googlekoreablog.blogspot.kr/2010/12/blog-post_4432.html))
-- [내앱찾기](https://play.google.com/store/apps/details?id=net.muik.myappfinder) 앱에서 영어이름으로 되어 있는 앱을 한글 키워드로 검색할 수 있도록 활용 예정
+- [내앱찾기](https://play.google.com/store/apps/details?id=net.muik.myappfinder) 앱에 활용 - 영어 이름으로 된 앱을 한글로 검색할 수 있도록 자동 한글 검색 인덱스 등록
 
 ##### 주 학습 데이터
 - 국립국어원의 [외래어 표기법의 용례](http://www.korean.go.kr/front/foreignSpell/foreignSpellList.do?mn_id=96)
