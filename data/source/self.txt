@@ -1,15 +1,24 @@
 # 직접 수기 입력
 hanna	한나
 kate	케이트
+pure 퓨어
 samsung	삼성
 sony	소니
 airbnb	에어비앤비
 emart	이마트
 mangoplate	망고플레이트
 himart	하이마트
+raison 레종
+marlboro 말보로
+mild  마일드
+window 윈도우
 wine	와인
+file 화일
 frypan	프라이팬
 elevator	엘리베이터
+geographical 지오그래피칼
+sequenced 시퀀스드
+conversion 컨버션
 angel	엔젤
 halloween	할로윈
 england	잉글랜드
