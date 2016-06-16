@@ -1,4 +1,246 @@
 # 직접 수기 입력
+geographical	지오그래피칼 
+sequenced	시퀀스드 
+raison	레종
+tab	탭
+marlboro	말보로  
+mild	마일드  
+window	윈도우
+Alekseevich	알렉세예비치
+kana	가나
+canaan	가나안
+Kanazawa	카나자와
+Ganesh Himal	가네시히말
+garnetpaper	가닛페이퍼
+kara	가라
+karaoke	가라오케
+garonne	가론
+Garmisch-Partenkirchen	가르미슈파르텐키르헨
+garcia lorca	가르시아로르카
+Vsevolod Mikhailovich	프세볼로트미하일로비치
+garshin	가르신
+gariban	가리방
+kamaboko 가마보코
+Gamow-Condon-Gurney	가모 콘던 거니의 이론
+gabin 가뱅
+gavotte	가보트
+gabon 가봉
+gabriela mistral	가브리엘라미스트랄
+gabriel-jonas lippmann	가브리엘조나스 리프만
+gasbombe	가스봄베
+gas chijimi	가스지지미
+Gascogne	가스코뉴
+gastank	가스탱크
+gazpacho	가스파초
+Katsura-taft	가쓰라 태프트
+gaillarde	가야르드
+Gaugamela	가우가멜라
+gauri-sankar	가우리상카르
+gaucho	가우초
+gauhati 가우하티
+gaidar 가이다르
+arkadii petrovich	아르카디 페트로비치
+guyana	가이아나
+gaze	가제
+kakeudon	가케우동
+catholic	가톨릭
+Georgii Apollonovich	게오르기 아폴로노비치
+gandak	간다크
+kandera	간데라
+gandzha	간자
+gall	갈
+Galaktosidase	갈락토시다아제
+galante	갈란테
+garland	갈런드
+gallicanisme	갈리카니슴
+galli-curci	갈리쿠르치
+galilee	갈릴리
+calvary	갈보리
+gamma amino	감마아미노낙산
+gammasonde	감마존데
+gambia	감비아
+gangtok	강토크
+guarantee	개런티
+Gegenbaur	게겐바우어
+Generalpause	게네랄파우제
+Generalprobe	게네랄프로베
+Genossenschaft	게노센샤프트
+genos	게노스
+gerah	게라
+Geraniol	게라니올
+Germanist	게르마니스트
+german	게르만
+Gary	게리
+GKB	게카베
+Godowsky	고도프스키
+Godunov	고두노프
+Gorakhpur	고라크푸르
+gorge	고르주
+Goldschmidt	골트슈미트
+Vincent Van	빈센트 반
+Gondar	곤다르
+Goldman	골드망
+guanaco	과나
+Gwalior	괄리오르
+Gurvitch 귀르비치
+Gumplowicz	굼플로비치
+catheter   카테터
+guignol   기뇰
+guinea-bissau   기니비사우
+gideon   기드온
+kimono   기모노
+scheduler   스케줄러
+giessen   기센
+kiju   기스
+guiana   기아나
+chamfering   챔퍼링
+guyot   기요
+guillotine   기요틴
+kiji   기지
+chromato   크로마토
+sacha   사샤
+giffen   기펜
+assembly   어셈블리
+gihon   기혼
+gill   길
+Gilead   길르앗
+gymnodinium   김노디니움
+gips bed   깁스베드
+cam ranh   깜라인
+cam ranh   캄란
+Quang Ngai   꽝응아이
+gnomon   그노몬
+gnosis   그노시스
+gdynia   그디니아
+gradevole   그라데볼레
+grave   그라베
+grace   그라스
+greif swald   그라이프스발트
+grazer   그라처
+grazioso   그라치오소
+gracile   그라칠레
+gratin   그라탱
+grappier cement   그라피에시멘트
+grandioso   그란디오소
+Gran Chaco   그란차코
+Gramme   그람
+Gram   그람
+grand guignol   그랑기뇰
+Grandes Jorasses   그랑드조라스
+granular   그래뉼러
+Grammy   그래미
+Grand Teton   그랜드티턴
+Gregorius   그레고리우스
+Grenada   그레나다
+Crete   그레데
+gradient   그레이디언트
+Graham   그레이엄
+Great Northern   그레이트노던
+Great Dyke   그레이트다이크
+Great Eastern   그레이트이스턴
+Greco   그레코
+gros-grain   그로그랭
+Gromaire   그로메르
+Grossglockner   그로스글로크너
+Groznyi   그로즈니
+grotesque   그로테스크
+Grotthuss   그로투스
+Grundherrschaft   그룬트헤어샤프트
+Grenoble   그르노블
+grid glow   그리드글로
+Gerizim   그리심
+grisaille   그리자유
+Griqua   그리콰
+Gmelin   그멜린
+glass   글라스
+Glazunov   글라주노프
+Gladstone   글래드스톤
+Glasgow   글래스고
+Glory hole   글로리홀
+glossopteris   글로소프테리스
+Glockenspiel   글로켄슈필
+glochidium   글로키디움
+Glomma   글롬마
+Glukosidase   글루코시다아제
+Gliwice   글리비체
+glissade   글리사드
+glissando   글리산도
+glisser   글리세
+Glyoxalase   글리옥살라아제
+Glykosidase   글리코시다아제
+Gudrun   구드룬
+Gubbio   구비오
+ghusl   구슬
+gusli   구슬리
+Guanabara   구아나바라
+gouache   구아슈
+Guajakol   구아야콜
+Gujranwala   구지란왈라
+Gutsherrschaft   구츠헤어샤프트
+Gutenberg   구텐버그
+Guntur   군투르
+geographical	지오그래피칼 
+sequenced	시퀀스드 
+raison	레종
+tab	탭
+marlboro	말보로  
+mild	마일드  
+window	윈도우
+Alekseevich	알렉세예비치
+kana	가나
+canaan	가나안
+Kanazawa	카나자와
+Ganesh Himal	가네시히말
+garnetpaper	가닛페이퍼
+kara	가라
+karaoke	가라오케
+garonne	가론
+Garmisch-Partenkirchen	가르미슈파르텐키르헨
+garcia lorca	가르시아로르카
+Vsevolod Mikhailovich	프세볼로트미하일로비치
+garshin	가르신
+gariban	가리방
+kamaboko 가마보코
+Gamow-Condon-Gurney	가모 콘던 거니의 이론
+gabin 가뱅
+gavotte	가보트
+gabon 가봉
+gabriela mistral	가브리엘라미스트랄
+gabriel-jonas lippmann	가브리엘조나스 리프만
+gasbombe	가스봄베
+gas chijimi	가스지지미
+Gascogne	가스코뉴
+gastank	가스탱크
+gazpacho	가스파초
+Katsura-taft	가쓰라 태프트
+gaillarde	가야르드
+Gaugamela	가우가멜라
+gauri-sankar	가우리상카르
+gaucho	가우초
+gauhati 가우하티
+gaidar 가이다르
+arkadii petrovich	아르카디 페트로비치
+guyana	가이아나
+gaze	가제
+kakeudon	가케우동
+catholic	가톨릭
+Georgii Apollonovich	게오르기 아폴로노비치
+gandak	간다크
+kandera	간데라
+gandzha	간자
+gall	갈
+Galaktosidase	갈락토시다아제
+galante	갈란테
+garland	갈런드
+gallicanisme	갈리카니슴
+galli-curci	갈리쿠르치
+galilee	갈릴리
+calvary	갈보리
+gamma amino	감마아미노낙산
+gammasonde	감마존데
+gambia	감비아
+gangtok	강토크
+guarantee	개런티
 hanna	한나
 kate	케이트
 pure 퓨어
